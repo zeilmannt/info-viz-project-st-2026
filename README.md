@@ -1,6 +1,6 @@
 # 📊 Information Visualization – Portofolio
 
-This repository contains a guided Jupyter notebook developed as part of the course [**Information Visualization**](https://www.hciai.uni-bayreuth.de/en/teaching/index.html) from Prof. Buschek from University of Bayreuth.
+This repository contains a guided Jupyter notebook developed as part of the course [**Information Visualization**](https://www.hciai.uni-bayreuth.de/en/teaching/index.html) from Prof. Buschek from University of Bayreuth in the summer term 2026.
 
 
 ## External data sources
