@@ -6,8 +6,9 @@ This repository contains a guided Jupyter notebook developed as part of the cour
 ## External data sources
 
 The folder *data* contains all datasets which are default for this notebook, as all additional datasets are under *task_data*:
-- Euro 2020 dataset (euro2020.xlsx) from https://www.kaggle.com/datasets/deanpatel/uefa-euro-2020-dataset
-- Owid energy dataset (owid-energy-data.csv) from https://github.com/owid/energy-data?tab=readme-ov-file
+- Euro 2020 dataset (euro2020.xlsx) from https://www.kaggle.com/datasets/deanpatel/uefa-euro-2020-dataset - downloaded: 09.04.2026 at 11:15
+- Owid energy dataset (owid-energy-data.csv) from https://github.com/owid/energy-data?tab=readme-ov-file - downloaded: 08.04.2026 at 20:05
+- Titanic dataset (titantic.csv) from https://www.kaggle.com/datasets/brendan45774/test-file/data - downloaded: 13.04.2026 at 11:08
 
 
 ## Requirements
