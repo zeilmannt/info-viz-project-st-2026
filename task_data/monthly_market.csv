@@ -1,0 +1,19 @@
+﻿Alle Werte in ct/kWh;Jan 2026;Feb 2026;Mär 2026;Apr 2026;Mai 2026;Jun 2026;Jul 2026;Aug 2026;Sep 2026;Okt 2026;Nov 2026;Dez 2026
+; ; ; ; ; ; ; ; ; ; ; ; 
+Spotmarktpreis; 11,009; 9,658; 9,929; ; ; ; ; ; ; ; ; 
+; ; ; ; ; ; ; ; ; ; ; ; 
+MW Wind an Land; 9,536; 8,723; 7,537; ; ; ; ; ; ; ; ; 
+; ; ; ; ; ; ; ; ; ; ; ; 
+MW Wind auf See; 10,519; 9,370; 7,911; ; ; ; ; ; ; ; ; 
+; ; ; ; ; ; ; ; ; ; ; ; 
+MW Solar; 11,019; 7,717; 5,455; ; ; ; ; ; ; ; ; 
+; ; ; ; ; ; ; ; ; ; ; ; 
+MW; 11,009; 9,658; 9,929; ; ; ; ; ; ; ; ; 
+; ; ; ; ; ; ; ; ; ; ; ; 
+Negative Preise (6H); Nein; Nein; Nein; ; ; ; ; ; ; ; ; 
+Negative Preise (4H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
+Negative Preise (3H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
+Negative Preise (2H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
+Negative Preise (1H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
+Negative Preise (15MIN); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
+Negative Preise (2CT); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 

@@ -10,6 +10,8 @@ The folder *data* contains all datasets which are default for this notebook, as 
 - Owid energy dataset (owid-energy-data.csv) from https://github.com/owid/energy-data?tab=readme-ov-file - downloaded: 08.04.2026 at 20:05
 - Titanic dataset (titantic.csv) from https://www.kaggle.com/datasets/brendan45774/test-file/data - downloaded: 13.04.2026 at 11:08
 - Repair Cafe dataset (repairs.csv) from https://github.com/rfordatascience/tidytuesday/blob/main/data/2026/2026-04-07/repairs.csv - downloaded: 13.04.2026 at 13:27
+- Monthly prices for ind. energy sources (monthly_market_values.csv) from https://www.netztransparenz.de/de-de/Erneuerbare-Energien-und-Umlagen/EEG/Transparenzanforderungen/Marktprämie/Marktwertübersicht - downloaded: 06.05.2026 at 17:26
+- Aktivierte mFRR qualitätsgesichert from https://www.netztransparenz.de/de-de/Regelenergie/Daten-Regelreserve/Aktivierte-Regelleistung - downloaded: 06.05.2026 at 17:30
 
 
 ## Requirements
