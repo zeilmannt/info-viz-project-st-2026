@@ -1,19 +1,1969 @@
-﻿Alle Werte in ct/kWh;Jan 2026;Feb 2026;Mär 2026;Apr 2026;Mai 2026;Jun 2026;Jul 2026;Aug 2026;Sep 2026;Okt 2026;Nov 2026;Dez 2026
-; ; ; ; ; ; ; ; ; ; ; ; 
-Spotmarktpreis; 11,009; 9,658; 9,929; ; ; ; ; ; ; ; ; 
-; ; ; ; ; ; ; ; ; ; ; ; 
-MW Wind an Land; 9,536; 8,723; 7,537; ; ; ; ; ; ; ; ; 
-; ; ; ; ; ; ; ; ; ; ; ; 
-MW Wind auf See; 10,519; 9,370; 7,911; ; ; ; ; ; ; ; ; 
-; ; ; ; ; ; ; ; ; ; ; ; 
-MW Solar; 11,019; 7,717; 5,455; ; ; ; ; ; ; ; ; 
-; ; ; ; ; ; ; ; ; ; ; ; 
-MW; 11,009; 9,658; 9,929; ; ; ; ; ; ; ; ; 
-; ; ; ; ; ; ; ; ; ; ; ; 
-Negative Preise (6H); Nein; Nein; Nein; ; ; ; ; ; ; ; ; 
-Negative Preise (4H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
-Negative Preise (3H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
-Negative Preise (2H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
-Negative Preise (1H); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
-Negative Preise (15MIN); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
-Negative Preise (2CT); Ja; Ja; Ja; ; ; ; ; ; ; ; ; 
+Year,Month,Category,Value
+2021,Jan,Spotmarktpreis,5.282
+2021,Jan,MW Wind an Land,4.645
+2021,Jan,MW Wind auf See,4.816
+2021,Jan,MW Solar,5.543
+2021,Jan,MW,5.282
+2021,Jan,Negative Preise (6H),
+2021,Jan,Negative Preise (4H),
+2021,Jan,Negative Preise (1H),
+2021,Feb,Spotmarktpreis,4.87
+2021,Feb,MW Wind an Land,4.361
+2021,Feb,MW Wind auf See,4.742
+2021,Feb,MW Solar,4.499
+2021,Feb,MW,4.87
+2021,Feb,Negative Preise (6H),
+2021,Feb,Negative Preise (4H),
+2021,Feb,Negative Preise (1H),
+2021,Mär,Spotmarktpreis,4.716
+2021,Mär,MW Wind an Land,3.395
+2021,Mär,MW Wind auf See,3.892
+2021,Mär,MW Solar,4.105
+2021,Mär,MW,4.716
+2021,Mär,Negative Preise (6H),
+2021,Mär,Negative Preise (4H),
+2021,Mär,Negative Preise (1H),
+2021,Apr,Spotmarktpreis,5.361
+2021,Apr,MW Wind an Land,4.353
+2021,Apr,MW Wind auf See,4.481
+2021,Apr,MW Solar,4.551
+2021,Apr,MW,5.361
+2021,Apr,Negative Preise (6H),
+2021,Apr,Negative Preise (4H),
+2021,Apr,Negative Preise (1H),
+2021,Mai,Spotmarktpreis,5.335
+2021,Mai,MW Wind an Land,4.134
+2021,Mai,MW Wind auf See,3.944
+2021,Mai,MW Solar,4.187
+2021,Mai,MW,5.335
+2021,Mai,Negative Preise (6H),
+2021,Mai,Negative Preise (4H),
+2021,Mai,Negative Preise (1H),
+2021,Jun,Spotmarktpreis,7.408
+2021,Jun,MW Wind an Land,6.33
+2021,Jun,MW Wind auf See,6.884
+2021,Jun,MW Solar,6.864
+2021,Jun,MW,7.408
+2021,Jun,Negative Preise (6H),
+2021,Jun,Negative Preise (4H),
+2021,Jun,Negative Preise (1H),
+2021,Jul,Spotmarktpreis,8.137
+2021,Jul,MW Wind an Land,6.808
+2021,Jul,MW Wind auf See,7.252
+2021,Jul,MW Solar,7.409
+2021,Jul,MW,8.137
+2021,Jul,Negative Preise (6H),
+2021,Jul,Negative Preise (4H),
+2021,Jul,Negative Preise (1H),
+2021,Aug,Spotmarktpreis,8.27
+2021,Aug,MW Wind an Land,7.253
+2021,Aug,MW Wind auf See,7.531
+2021,Aug,MW Solar,7.681
+2021,Aug,MW,8.27
+2021,Aug,Negative Preise (6H),
+2021,Aug,Negative Preise (4H),
+2021,Aug,Negative Preise (1H),
+2021,Sep,Spotmarktpreis,12.837
+2021,Sep,MW Wind an Land,11.754
+2021,Sep,MW Wind auf See,12.25
+2021,Sep,MW Solar,11.715
+2021,Sep,MW,12.837
+2021,Sep,Negative Preise (6H),
+2021,Sep,Negative Preise (4H),
+2021,Sep,Negative Preise (1H),
+2021,Okt,Spotmarktpreis,13.949
+2021,Okt,MW Wind an Land,10.982
+2021,Okt,MW Wind auf See,12.556
+2021,Okt,MW Solar,12.804
+2021,Okt,MW,13.949
+2021,Okt,Negative Preise (6H),
+2021,Okt,Negative Preise (4H),
+2021,Okt,Negative Preise (1H),
+2021,Nov,Spotmarktpreis,17.615
+2021,Nov,MW Wind an Land,14.056
+2021,Nov,MW Wind auf See,15.649
+2021,Nov,MW Solar,18.307
+2021,Nov,MW,17.615
+2021,Nov,Negative Preise (6H),
+2021,Nov,Negative Preise (4H),
+2021,Nov,Negative Preise (1H),
+2021,Dez,Spotmarktpreis,22.106
+2021,Dez,MW Wind an Land,16.077
+2021,Dez,MW Wind auf See,18.426
+2021,Dez,MW Solar,27.075
+2021,Dez,MW,22.106
+2021,Dez,Negative Preise (6H),
+2021,Dez,Negative Preise (4H),
+2021,Dez,Negative Preise (1H),
+2020,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.503
+2020,Jan,MW Wind Onshore,3.091
+2020,Jan,PM Wind Onshore fernsteuerbar,0.4
+2020,Jan,MW Wind Offshore,3.321
+2020,Jan,PM Wind Offshore fernsteuerbar,0.4
+2020,Jan,MW Solar,3.831
+2020,Jan,PM Solar fernsteuerbar,0.4
+2020,Jan,MW steuerbar,3.503
+2020,Jan,PM steuerbar,0.2
+2020,Jan,Negative Preise (6H),
+2020,Jan,Negative Preise (4H),
+2020,Jan,Negative Preise (1H),
+2020,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.192
+2020,Feb,MW Wind Onshore,1.68
+2020,Feb,PM Wind Onshore fernsteuerbar,0.4
+2020,Feb,MW Wind Offshore,1.92
+2020,Feb,PM Wind Offshore fernsteuerbar,0.4
+2020,Feb,MW Solar,2.319
+2020,Feb,PM Solar fernsteuerbar,0.4
+2020,Feb,MW steuerbar,2.192
+2020,Feb,PM steuerbar,0.2
+2020,Feb,Negative Preise (6H),
+2020,Feb,Negative Preise (4H),
+2020,Feb,Negative Preise (1H),
+2020,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.249
+2020,Mär,MW Wind Onshore,1.773
+2020,Mär,PM Wind Onshore fernsteuerbar,0.4
+2020,Mär,MW Wind Offshore,1.81
+2020,Mär,PM Wind Offshore fernsteuerbar,0.4
+2020,Mär,MW Solar,1.618
+2020,Mär,PM Solar fernsteuerbar,0.4
+2020,Mär,MW steuerbar,2.249
+2020,Mär,PM steuerbar,0.2
+2020,Mär,Negative Preise (6H),
+2020,Mär,Negative Preise (4H),
+2020,Mär,Negative Preise (1H),
+2020,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),1.709
+2020,Apr,MW Wind Onshore,0.94
+2020,Apr,PM Wind Onshore fernsteuerbar,0.4
+2020,Apr,MW Wind Offshore,1.128
+2020,Apr,PM Wind Offshore fernsteuerbar,0.4
+2020,Apr,MW Solar,0.89
+2020,Apr,PM Solar fernsteuerbar,0.4
+2020,Apr,MW steuerbar,1.709
+2020,Apr,PM steuerbar,0.2
+2020,Apr,Negative Preise (6H),
+2020,Apr,Negative Preise (4H),
+2020,Apr,Negative Preise (1H),
+2020,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),1.76
+2020,Mai,MW Wind Onshore,1.214
+2020,Mai,PM Wind Onshore fernsteuerbar,0.4
+2020,Mai,MW Wind Offshore,1.247
+2020,Mai,PM Wind Offshore fernsteuerbar,0.4
+2020,Mai,MW Solar,1.413
+2020,Mai,PM Solar fernsteuerbar,0.4
+2020,Mai,MW steuerbar,1.76
+2020,Mai,PM steuerbar,0.2
+2020,Mai,Negative Preise (6H),
+2020,Mai,Negative Preise (4H),
+2020,Mai,Negative Preise (1H),
+2020,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.618
+2020,Jun,MW Wind Onshore,2.203
+2020,Jun,PM Wind Onshore fernsteuerbar,0.4
+2020,Jun,MW Wind Offshore,2.196
+2020,Jun,PM Wind Offshore fernsteuerbar,0.4
+2020,Jun,MW Solar,2.473
+2020,Jun,PM Solar fernsteuerbar,0.4
+2020,Jun,MW steuerbar,2.618
+2020,Jun,PM steuerbar,0.2
+2020,Jun,Negative Preise (6H),
+2020,Jun,Negative Preise (4H),
+2020,Jun,Negative Preise (1H),
+2020,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.006
+2020,Jul,MW Wind Onshore,2.035
+2020,Jul,PM Wind Onshore fernsteuerbar,0.4
+2020,Jul,MW Wind Offshore,2.265
+2020,Jul,PM Wind Offshore fernsteuerbar,0.4
+2020,Jul,MW Solar,2.623
+2020,Jul,PM Solar fernsteuerbar,0.4
+2020,Jul,MW steuerbar,3.006
+2020,Jul,PM steuerbar,0.2
+2020,Jul,Negative Preise (6H),
+2020,Jul,Negative Preise (4H),
+2020,Jul,Negative Preise (1H),
+2020,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.486
+2020,Aug,MW Wind Onshore,3.005
+2020,Aug,PM Wind Onshore fernsteuerbar,0.4
+2020,Aug,MW Wind Offshore,3.142
+2020,Aug,PM Wind Offshore fernsteuerbar,0.4
+2020,Aug,MW Solar,3.321
+2020,Aug,PM Solar fernsteuerbar,0.4
+2020,Aug,MW steuerbar,3.486
+2020,Aug,PM steuerbar,0.2
+2020,Aug,Negative Preise (6H),
+2020,Aug,Negative Preise (4H),
+2020,Aug,Negative Preise (1H),
+2020,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.369
+2020,Sep,MW Wind Onshore,3.785
+2020,Sep,PM Wind Onshore fernsteuerbar,0.4
+2020,Sep,MW Wind Offshore,3.758
+2020,Sep,PM Wind Offshore fernsteuerbar,0.4
+2020,Sep,MW Solar,3.981
+2020,Sep,PM Solar fernsteuerbar,0.4
+2020,Sep,MW steuerbar,4.369
+2020,Sep,PM steuerbar,0.2
+2020,Sep,Negative Preise (6H),
+2020,Sep,Negative Preise (4H),
+2020,Sep,Negative Preise (1H),
+2020,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.397
+2020,Okt,MW Wind Onshore,2.986
+2020,Okt,PM Wind Onshore fernsteuerbar,0.4
+2020,Okt,MW Wind Offshore,3.14
+2020,Okt,PM Wind Offshore fernsteuerbar,0.4
+2020,Okt,MW Solar,3.269
+2020,Okt,PM Solar fernsteuerbar,0.4
+2020,Okt,MW steuerbar,3.397
+2020,Okt,PM steuerbar,0.2
+2020,Okt,Negative Preise (6H),
+2020,Okt,Negative Preise (4H),
+2020,Okt,Negative Preise (1H),
+2020,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.879
+2020,Nov,MW Wind Onshore,3.199
+2020,Nov,PM Wind Onshore fernsteuerbar,0.4
+2020,Nov,MW Wind Offshore,3.454
+2020,Nov,PM Wind Offshore fernsteuerbar,0.4
+2020,Nov,MW Solar,3.998
+2020,Nov,PM Solar fernsteuerbar,0.4
+2020,Nov,MW steuerbar,3.879
+2020,Nov,PM steuerbar,0.2
+2020,Nov,Negative Preise (6H),
+2020,Nov,Negative Preise (4H),
+2020,Nov,Negative Preise (1H),
+2020,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.352
+2020,Dez,MW Wind Onshore,3.291
+2020,Dez,PM Wind Onshore fernsteuerbar,0.4
+2020,Dez,MW Wind Offshore,3.888
+2020,Dez,PM Wind Offshore fernsteuerbar,0.4
+2020,Dez,MW Solar,4.811
+2020,Dez,PM Solar fernsteuerbar,0.4
+2020,Dez,MW steuerbar,4.352
+2020,Dez,PM steuerbar,0.2
+2020,Dez,Negative Preise (6H),
+2020,Dez,Negative Preise (4H),
+2020,Dez,Negative Preise (1H),
+2022,Jan,Spotmarktpreis,16.773
+2022,Jan,MW Wind an Land,12.883
+2022,Jan,MW Wind auf See,14.476
+2022,Jan,MW Solar,17.838
+2022,Jan,MW,16.773
+2022,Jan,Negative Preise (6H),
+2022,Jan,Negative Preise (4H),
+2022,Jan,Negative Preise (1H),
+2022,Feb,Spotmarktpreis,12.88
+2022,Feb,MW Wind an Land,10.825
+2022,Feb,MW Wind auf See,11.845
+2022,Feb,MW Solar,11.871
+2022,Feb,MW,12.88
+2022,Feb,Negative Preise (6H),
+2022,Feb,Negative Preise (4H),
+2022,Feb,Negative Preise (1H),
+2022,Mär,Spotmarktpreis,25.201
+2022,Mär,MW Wind an Land,19.766
+2022,Mär,MW Wind auf See,20.701
+2022,Mär,MW Solar,20.712
+2022,Mär,MW,25.201
+2022,Mär,Negative Preise (6H),
+2022,Mär,Negative Preise (4H),
+2022,Mär,Negative Preise (1H),
+2022,Apr,Spotmarktpreis,16.573
+2022,Apr,MW Wind an Land,12.703
+2022,Apr,MW Wind auf See,13.353
+2022,Apr,MW Solar,14.566
+2022,Apr,MW,16.573
+2022,Apr,Negative Preise (6H),
+2022,Apr,Negative Preise (4H),
+2022,Apr,Negative Preise (1H),
+2022,Mai,Spotmarktpreis,17.748
+2022,Mai,MW Wind an Land,13.242
+2022,Mai,MW Wind auf See,14.024
+2022,Mai,MW Solar,15.132
+2022,Mai,MW,17.748
+2022,Mai,Negative Preise (6H),
+2022,Mai,Negative Preise (4H),
+2022,Mai,Negative Preise (1H),
+2022,Jun,Spotmarktpreis,21.803
+2022,Jun,MW Wind an Land,19.692
+2022,Jun,MW Wind auf See,19.909
+2022,Jun,MW Solar,18.94
+2022,Jun,MW,21.803
+2022,Jun,Negative Preise (6H),
+2022,Jun,Negative Preise (4H),
+2022,Jun,Negative Preise (1H),
+2022,Jul,Spotmarktpreis,31.5
+2022,Jul,MW Wind an Land,27.824
+2022,Jul,MW Wind auf See,28.687
+2022,Jul,MW Solar,26.093
+2022,Jul,MW,31.5
+2022,Jul,Negative Preise (6H),
+2022,Jul,Negative Preise (4H),
+2022,Jul,Negative Preise (1H),
+2022,Aug,Spotmarktpreis,46.518
+2022,Aug,MW Wind an Land,46.092
+2022,Aug,MW Wind auf See,47.611
+2022,Aug,MW Solar,39.91
+2022,Aug,MW,46.518
+2022,Aug,Negative Preise (6H),
+2022,Aug,Negative Preise (4H),
+2022,Aug,Negative Preise (1H),
+2022,Sep,Spotmarktpreis,34.612
+2022,Sep,MW Wind an Land,28.238
+2022,Sep,MW Wind auf See,29.358
+2022,Sep,MW Solar,31.673
+2022,Sep,MW,34.612
+2022,Sep,Negative Preise (6H),
+2022,Sep,Negative Preise (4H),
+2022,Sep,Negative Preise (1H),
+2022,Okt,Spotmarktpreis,15.26
+2022,Okt,MW Wind an Land,12.715
+2022,Okt,MW Wind auf See,13.694
+2022,Okt,MW Solar,12.904
+2022,Okt,MW,15.26
+2022,Okt,Negative Preise (6H),
+2022,Okt,Negative Preise (4H),
+2022,Okt,Negative Preise (1H),
+2022,Nov,Spotmarktpreis,17.363
+2022,Nov,MW Wind an Land,13.718
+2022,Nov,MW Wind auf See,14.414
+2022,Nov,MW Solar,15.374
+2022,Nov,MW,17.363
+2022,Nov,Negative Preise (6H),
+2022,Nov,Negative Preise (4H),
+2022,Nov,Negative Preise (1H),
+2022,Dez,Spotmarktpreis,25.162
+2022,Dez,MW Wind an Land,14.164
+2022,Dez,MW Wind auf See,20.054
+2022,Dez,MW Solar,24.661
+2022,Dez,MW,25.162
+2022,Dez,Negative Preise (6H),
+2022,Dez,Negative Preise (4H),
+2022,Dez,Negative Preise (1H),
+2023,Jan,Spotmarktpreis,11.783
+2023,Jan,MW Wind an Land,8.726
+2023,Jan,MW Wind auf See,9.65
+2023,Jan,MW Solar,12.291
+2023,Jan,MW,11.783
+2023,Jan,Negative Preise (6H),
+2023,Jan,Negative Preise (4H),
+2023,Jan,Negative Preise (1H),
+2023,Feb,Spotmarktpreis,12.831
+2023,Feb,MW Wind an Land,10.62
+2023,Feb,MW Wind auf See,11.051
+2023,Feb,MW Solar,12.343
+2023,Feb,MW,12.831
+2023,Feb,Negative Preise (6H),
+2023,Feb,Negative Preise (4H),
+2023,Feb,Negative Preise (1H),
+2023,Mär,Spotmarktpreis,10.252
+2023,Mär,MW Wind an Land,8.515
+2023,Mär,MW Wind auf See,8.955
+2023,Mär,MW Solar,8.883
+2023,Mär,MW,10.252
+2023,Mär,Negative Preise (6H),
+2023,Mär,Negative Preise (4H),
+2023,Mär,Negative Preise (1H),
+2023,Apr,Spotmarktpreis,10.074
+2023,Apr,MW Wind an Land,8.94
+2023,Apr,MW Wind auf See,9.26
+2023,Apr,MW Solar,8.002
+2023,Apr,MW,10.074
+2023,Apr,Negative Preise (6H),
+2023,Apr,Negative Preise (4H),
+2023,Apr,Negative Preise (1H),
+2023,Mai,Spotmarktpreis,8.172
+2023,Mai,MW Wind an Land,8.095
+2023,Mai,MW Wind auf See,8.058
+2023,Mai,MW Solar,5.356
+2023,Mai,MW,8.172
+2023,Mai,Negative Preise (6H),
+2023,Mai,Negative Preise (4H),
+2023,Mai,Negative Preise (1H),
+2023,Jun,Spotmarktpreis,9.476
+2023,Jun,MW Wind an Land,9.236
+2023,Jun,MW Wind auf See,9.147
+2023,Jun,MW Solar,7.124
+2023,Jun,MW,9.476
+2023,Jun,Negative Preise (6H),
+2023,Jun,Negative Preise (4H),
+2023,Jun,Negative Preise (1H),
+2023,Jul,Spotmarktpreis,7.761
+2023,Jul,MW Wind an Land,5.445
+2023,Jul,MW Wind auf See,6.051
+2023,Jul,MW Solar,5.173
+2023,Jul,MW,7.761
+2023,Jul,Negative Preise (6H),
+2023,Jul,Negative Preise (4H),
+2023,Jul,Negative Preise (1H),
+2023,Aug,Spotmarktpreis,9.432
+2023,Aug,MW Wind an Land,6.613
+2023,Aug,MW Wind auf See,7.334
+2023,Aug,MW Solar,7.533
+2023,Aug,MW,9.432
+2023,Aug,Negative Preise (6H),
+2023,Aug,Negative Preise (4H),
+2023,Aug,Negative Preise (1H),
+2023,Sep,Spotmarktpreis,10.072
+2023,Sep,MW Wind an Land,8.566
+2023,Sep,MW Wind auf See,8.874
+2023,Sep,MW Solar,7.447
+2023,Sep,MW,10.072
+2023,Sep,Negative Preise (6H),
+2023,Sep,Negative Preise (4H),
+2023,Sep,Negative Preise (1H),
+2023,Okt,Spotmarktpreis,8.738
+2023,Okt,MW Wind an Land,6.864
+2023,Okt,MW Wind auf See,7.426
+2023,Okt,MW Solar,6.763
+2023,Okt,MW,8.738
+2023,Okt,Negative Preise (6H),
+2023,Okt,Negative Preise (4H),
+2023,Okt,Negative Preise (1H),
+2023,Nov,Spotmarktpreis,9.112
+2023,Nov,MW Wind an Land,7.653
+2023,Nov,MW Wind auf See,7.915
+2023,Nov,MW Solar,8.525
+2023,Nov,MW,9.112
+2023,Nov,Negative Preise (6H),
+2023,Nov,Negative Preise (4H),
+2023,Nov,Negative Preise (1H),
+2023,Dez,Spotmarktpreis,6.852
+2023,Dez,MW Wind an Land,4.409
+2023,Dez,MW Wind auf See,5.562
+2023,Dez,MW Solar,6.592
+2023,Dez,MW,6.852
+2023,Dez,Negative Preise (6H),
+2023,Dez,Negative Preise (4H),
+2023,Dez,Negative Preise (1H),
+2026,Jan,Spotmarktpreis,11.009
+2026,Jan,MW Wind an Land,9.536
+2026,Jan,MW Wind auf See,10.519
+2026,Jan,MW Solar,11.019
+2026,Jan,MW,11.009
+2026,Jan,Negative Preise (6H),
+2026,Jan,Negative Preise (4H),
+2026,Jan,Negative Preise (3H),
+2026,Jan,Negative Preise (2H),
+2026,Jan,Negative Preise (1H),
+2026,Jan,Negative Preise (15MIN),
+2026,Jan,Negative Preise (2CT),
+2026,Feb,Spotmarktpreis,9.658
+2026,Feb,MW Wind an Land,8.723
+2026,Feb,MW Wind auf See,9.37
+2026,Feb,MW Solar,7.717
+2026,Feb,MW,9.658
+2026,Feb,Negative Preise (6H),
+2026,Feb,Negative Preise (4H),
+2026,Feb,Negative Preise (3H),
+2026,Feb,Negative Preise (2H),
+2026,Feb,Negative Preise (1H),
+2026,Feb,Negative Preise (15MIN),
+2026,Feb,Negative Preise (2CT),
+2026,Mär,Spotmarktpreis,9.929
+2026,Mär,MW Wind an Land,7.537
+2026,Mär,MW Wind auf See,7.911
+2026,Mär,MW Solar,5.455
+2026,Mär,MW,9.929
+2026,Mär,Negative Preise (6H),
+2026,Mär,Negative Preise (4H),
+2026,Mär,Negative Preise (3H),
+2026,Mär,Negative Preise (2H),
+2026,Mär,Negative Preise (1H),
+2026,Mär,Negative Preise (15MIN),
+2026,Mär,Negative Preise (2CT),
+2026,Apr,Spotmarktpreis,
+2026,Apr,MW Wind an Land,
+2026,Apr,MW Wind auf See,
+2026,Apr,MW Solar,
+2026,Apr,MW,
+2026,Apr,Negative Preise (6H),
+2026,Apr,Negative Preise (4H),
+2026,Apr,Negative Preise (3H),
+2026,Apr,Negative Preise (2H),
+2026,Apr,Negative Preise (1H),
+2026,Apr,Negative Preise (15MIN),
+2026,Apr,Negative Preise (2CT),
+2026,Mai,Spotmarktpreis,
+2026,Mai,MW Wind an Land,
+2026,Mai,MW Wind auf See,
+2026,Mai,MW Solar,
+2026,Mai,MW,
+2026,Mai,Negative Preise (6H),
+2026,Mai,Negative Preise (4H),
+2026,Mai,Negative Preise (3H),
+2026,Mai,Negative Preise (2H),
+2026,Mai,Negative Preise (1H),
+2026,Mai,Negative Preise (15MIN),
+2026,Mai,Negative Preise (2CT),
+2026,Jun,Spotmarktpreis,
+2026,Jun,MW Wind an Land,
+2026,Jun,MW Wind auf See,
+2026,Jun,MW Solar,
+2026,Jun,MW,
+2026,Jun,Negative Preise (6H),
+2026,Jun,Negative Preise (4H),
+2026,Jun,Negative Preise (3H),
+2026,Jun,Negative Preise (2H),
+2026,Jun,Negative Preise (1H),
+2026,Jun,Negative Preise (15MIN),
+2026,Jun,Negative Preise (2CT),
+2026,Jul,Spotmarktpreis,
+2026,Jul,MW Wind an Land,
+2026,Jul,MW Wind auf See,
+2026,Jul,MW Solar,
+2026,Jul,MW,
+2026,Jul,Negative Preise (6H),
+2026,Jul,Negative Preise (4H),
+2026,Jul,Negative Preise (3H),
+2026,Jul,Negative Preise (2H),
+2026,Jul,Negative Preise (1H),
+2026,Jul,Negative Preise (15MIN),
+2026,Jul,Negative Preise (2CT),
+2026,Aug,Spotmarktpreis,
+2026,Aug,MW Wind an Land,
+2026,Aug,MW Wind auf See,
+2026,Aug,MW Solar,
+2026,Aug,MW,
+2026,Aug,Negative Preise (6H),
+2026,Aug,Negative Preise (4H),
+2026,Aug,Negative Preise (3H),
+2026,Aug,Negative Preise (2H),
+2026,Aug,Negative Preise (1H),
+2026,Aug,Negative Preise (15MIN),
+2026,Aug,Negative Preise (2CT),
+2026,Sep,Spotmarktpreis,
+2026,Sep,MW Wind an Land,
+2026,Sep,MW Wind auf See,
+2026,Sep,MW Solar,
+2026,Sep,MW,
+2026,Sep,Negative Preise (6H),
+2026,Sep,Negative Preise (4H),
+2026,Sep,Negative Preise (3H),
+2026,Sep,Negative Preise (2H),
+2026,Sep,Negative Preise (1H),
+2026,Sep,Negative Preise (15MIN),
+2026,Sep,Negative Preise (2CT),
+2026,Okt,Spotmarktpreis,
+2026,Okt,MW Wind an Land,
+2026,Okt,MW Wind auf See,
+2026,Okt,MW Solar,
+2026,Okt,MW,
+2026,Okt,Negative Preise (6H),
+2026,Okt,Negative Preise (4H),
+2026,Okt,Negative Preise (3H),
+2026,Okt,Negative Preise (2H),
+2026,Okt,Negative Preise (1H),
+2026,Okt,Negative Preise (15MIN),
+2026,Okt,Negative Preise (2CT),
+2026,Nov,Spotmarktpreis,
+2026,Nov,MW Wind an Land,
+2026,Nov,MW Wind auf See,
+2026,Nov,MW Solar,
+2026,Nov,MW,
+2026,Nov,Negative Preise (6H),
+2026,Nov,Negative Preise (4H),
+2026,Nov,Negative Preise (3H),
+2026,Nov,Negative Preise (2H),
+2026,Nov,Negative Preise (1H),
+2026,Nov,Negative Preise (15MIN),
+2026,Nov,Negative Preise (2CT),
+2026,Dez,Spotmarktpreis,
+2026,Dez,MW Wind an Land,
+2026,Dez,MW Wind auf See,
+2026,Dez,MW Solar,
+2026,Dez,MW,
+2026,Dez,Negative Preise (6H),
+2026,Dez,Negative Preise (4H),
+2026,Dez,Negative Preise (3H),
+2026,Dez,Negative Preise (2H),
+2026,Dez,Negative Preise (1H),
+2026,Dez,Negative Preise (15MIN),
+2026,Dez,Negative Preise (2CT),
+2018,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.946
+2018,Jan,MW Wind Onshore,2.177
+2018,Jan,PM Wind Onshore fernsteuerbar,0.4
+2018,Jan,MW Wind Offshore,2.468
+2018,Jan,PM Wind Offshore fernsteuerbar,0.4
+2018,Jan,MW Solar,3.44
+2018,Jan,PM Solar fernsteuerbar,0.4
+2018,Jan,MW steuerbar,2.946
+2018,Jan,PM steuerbar,0.2
+2018,Jan,Negative Preise (6H),
+2018,Jan,Negative Preise (4H),
+2018,Jan,Negative Preise (1H),
+2018,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.012
+2018,Feb,MW Wind Onshore,3.545
+2018,Feb,PM Wind Onshore fernsteuerbar,0.4
+2018,Feb,MW Wind Offshore,3.666
+2018,Feb,PM Wind Offshore fernsteuerbar,0.4
+2018,Feb,MW Solar,4.038
+2018,Feb,PM Solar fernsteuerbar,0.4
+2018,Feb,MW steuerbar,4.012
+2018,Feb,PM steuerbar,0.2
+2018,Feb,Negative Preise (6H),
+2018,Feb,Negative Preise (4H),
+2018,Feb,Negative Preise (1H),
+2018,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.736
+2018,Mär,MW Wind Onshore,2.949
+2018,Mär,PM Wind Onshore fernsteuerbar,0.4
+2018,Mär,MW Wind Offshore,3.181
+2018,Mär,PM Wind Offshore fernsteuerbar,0.4
+2018,Mär,MW Solar,3.698
+2018,Mär,PM Solar fernsteuerbar,0.4
+2018,Mär,MW steuerbar,3.736
+2018,Mär,PM steuerbar,0.2
+2018,Mär,Negative Preise (6H),
+2018,Mär,Negative Preise (4H),
+2018,Mär,Negative Preise (1H),
+2018,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.206
+2018,Apr,MW Wind Onshore,2.924
+2018,Apr,PM Wind Onshore fernsteuerbar,0.4
+2018,Apr,MW Wind Offshore,3.118
+2018,Apr,PM Wind Offshore fernsteuerbar,0.4
+2018,Apr,MW Solar,2.954
+2018,Apr,PM Solar fernsteuerbar,0.4
+2018,Apr,MW steuerbar,3.206
+2018,Apr,PM steuerbar,0.2
+2018,Apr,Negative Preise (6H),
+2018,Apr,Negative Preise (4H),
+2018,Apr,Negative Preise (1H),
+2018,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.354
+2018,Mai,MW Wind Onshore,2.757
+2018,Mai,PM Wind Onshore fernsteuerbar,0.4
+2018,Mai,MW Wind Offshore,3.17
+2018,Mai,PM Wind Offshore fernsteuerbar,0.4
+2018,Mai,MW Solar,3.186
+2018,Mai,PM Solar fernsteuerbar,0.4
+2018,Mai,MW steuerbar,3.354
+2018,Mai,PM steuerbar,0.2
+2018,Mai,Negative Preise (6H),
+2018,Mai,Negative Preise (4H),
+2018,Mai,Negative Preise (1H),
+2018,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.242
+2018,Jun,MW Wind Onshore,3.737
+2018,Jun,PM Wind Onshore fernsteuerbar,0.4
+2018,Jun,MW Wind Offshore,3.83
+2018,Jun,PM Wind Offshore fernsteuerbar,0.4
+2018,Jun,MW Solar,4.251
+2018,Jun,PM Solar fernsteuerbar,0.4
+2018,Jun,MW steuerbar,4.242
+2018,Jun,PM steuerbar,0.2
+2018,Jun,Negative Preise (6H),
+2018,Jun,Negative Preise (4H),
+2018,Jun,Negative Preise (1H),
+2018,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.954
+2018,Jul,MW Wind Onshore,4.686
+2018,Jul,PM Wind Onshore fernsteuerbar,0.4
+2018,Jul,MW Wind Offshore,4.757
+2018,Jul,PM Wind Offshore fernsteuerbar,0.4
+2018,Jul,MW Solar,4.9
+2018,Jul,PM Solar fernsteuerbar,0.4
+2018,Jul,MW steuerbar,4.954
+2018,Jul,PM steuerbar,0.2
+2018,Jul,Negative Preise (6H),
+2018,Jul,Negative Preise (4H),
+2018,Jul,Negative Preise (1H),
+2018,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),5.619
+2018,Aug,MW Wind Onshore,5.235
+2018,Aug,PM Wind Onshore fernsteuerbar,0.4
+2018,Aug,MW Wind Offshore,5.244
+2018,Aug,PM Wind Offshore fernsteuerbar,0.4
+2018,Aug,MW Solar,5.595
+2018,Aug,PM Solar fernsteuerbar,0.4
+2018,Aug,MW steuerbar,5.619
+2018,Aug,PM steuerbar,0.2
+2018,Aug,Negative Preise (6H),
+2018,Aug,Negative Preise (4H),
+2018,Aug,Negative Preise (1H),
+2018,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),5.483
+2018,Sep,MW Wind Onshore,4.805
+2018,Sep,PM Wind Onshore fernsteuerbar,0.4
+2018,Sep,MW Wind Offshore,5.051
+2018,Sep,PM Wind Offshore fernsteuerbar,0.4
+2018,Sep,MW Solar,5.21
+2018,Sep,PM Solar fernsteuerbar,0.4
+2018,Sep,MW steuerbar,5.483
+2018,Sep,PM steuerbar,0.2
+2018,Sep,Negative Preise (6H),
+2018,Sep,Negative Preise (4H),
+2018,Sep,Negative Preise (1H),
+2018,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),5.311
+2018,Okt,MW Wind Onshore,4.337
+2018,Okt,PM Wind Onshore fernsteuerbar,0.4
+2018,Okt,MW Wind Offshore,4.818
+2018,Okt,PM Wind Offshore fernsteuerbar,0.4
+2018,Okt,MW Solar,5.325
+2018,Okt,PM Solar fernsteuerbar,0.4
+2018,Okt,MW steuerbar,5.311
+2018,Okt,PM steuerbar,0.2
+2018,Okt,Negative Preise (6H),
+2018,Okt,Negative Preise (4H),
+2018,Okt,Negative Preise (1H),
+2018,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),5.668
+2018,Nov,MW Wind Onshore,5.214
+2018,Nov,PM Wind Onshore fernsteuerbar,0.4
+2018,Nov,MW Wind Offshore,5.379
+2018,Nov,PM Wind Offshore fernsteuerbar,0.4
+2018,Nov,MW Solar,5.976
+2018,Nov,PM Solar fernsteuerbar,0.4
+2018,Nov,MW steuerbar,5.668
+2018,Nov,PM steuerbar,0.2
+2018,Nov,Negative Preise (6H),
+2018,Nov,Negative Preise (4H),
+2018,Nov,Negative Preise (1H),
+2018,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.813
+2018,Dez,MW Wind Onshore,3.94
+2018,Dez,PM Wind Onshore fernsteuerbar,0.4
+2018,Dez,MW Wind Offshore,4.378
+2018,Dez,PM Wind Offshore fernsteuerbar,0.4
+2018,Dez,MW Solar,5.612
+2018,Dez,PM Solar fernsteuerbar,0.4
+2018,Dez,MW steuerbar,4.813
+2018,Dez,PM steuerbar,0.2
+2018,Dez,Negative Preise (6H),
+2018,Dez,Negative Preise (4H),
+2018,Dez,Negative Preise (1H),
+2024,Jan,Spotmarktpreis,7.657
+2024,Jan,MW Wind an Land,6.502
+2024,Jan,MW Wind auf See,7.138
+2024,Jan,MW Solar,7.535
+2024,Jan,MW,7.657
+2024,Jan,Negative Preise (6H),
+2024,Jan,Negative Preise (4H),
+2024,Jan,Negative Preise (3H),
+2024,Jan,Negative Preise (1H),
+2024,Feb,Spotmarktpreis,6.134
+2024,Feb,MW Wind an Land,5.335
+2024,Feb,MW Wind auf See,5.655
+2024,Feb,MW Solar,5.875
+2024,Feb,MW,6.134
+2024,Feb,Negative Preise (6H),
+2024,Feb,Negative Preise (4H),
+2024,Feb,Negative Preise (3H),
+2024,Feb,Negative Preise (1H),
+2024,Mär,Spotmarktpreis,6.47
+2024,Mär,MW Wind an Land,5.538
+2024,Mär,MW Wind auf See,5.937
+2024,Mär,MW Solar,4.965
+2024,Mär,MW,6.47
+2024,Mär,Negative Preise (6H),
+2024,Mär,Negative Preise (4H),
+2024,Mär,Negative Preise (3H),
+2024,Mär,Negative Preise (1H),
+2024,Apr,Spotmarktpreis,6.236
+2024,Apr,MW Wind an Land,4.8
+2024,Apr,MW Wind auf See,5.288
+2024,Apr,MW Solar,3.795
+2024,Apr,MW,6.236
+2024,Apr,Negative Preise (6H),
+2024,Apr,Negative Preise (4H),
+2024,Apr,Negative Preise (3H),
+2024,Apr,Negative Preise (1H),
+2024,Mai,Spotmarktpreis,6.721
+2024,Mai,MW Wind an Land,5.608
+2024,Mai,MW Wind auf See,5.582
+2024,Mai,MW Solar,3.161
+2024,Mai,MW,6.721
+2024,Mai,Negative Preise (6H),
+2024,Mai,Negative Preise (4H),
+2024,Mai,Negative Preise (3H),
+2024,Mai,Negative Preise (1H),
+2024,Jun,Spotmarktpreis,8.445
+2024,Jun,MW Wind an Land,6.356
+2024,Jun,MW Wind auf See,6.533
+2024,Jun,MW Solar,4.635
+2024,Jun,MW,8.445
+2024,Jun,Negative Preise (6H),
+2024,Jun,Negative Preise (4H),
+2024,Jun,Negative Preise (3H),
+2024,Jun,Negative Preise (1H),
+2024,Jul,Spotmarktpreis,6.77
+2024,Jul,MW Wind an Land,4.985
+2024,Jul,MW Wind auf See,5.781
+2024,Jul,MW Solar,3.554
+2024,Jul,MW,6.77
+2024,Jul,Negative Preise (6H),
+2024,Jul,Negative Preise (4H),
+2024,Jul,Negative Preise (3H),
+2024,Jul,Negative Preise (1H),
+2024,Aug,Spotmarktpreis,8.205
+2024,Aug,MW Wind an Land,6.168
+2024,Aug,MW Wind auf See,6.804
+2024,Aug,MW Solar,4.263
+2024,Aug,MW,8.205
+2024,Aug,Negative Preise (6H),
+2024,Aug,Negative Preise (4H),
+2024,Aug,Negative Preise (3H),
+2024,Aug,Negative Preise (1H),
+2024,Sep,Spotmarktpreis,7.831
+2024,Sep,MW Wind an Land,6.266
+2024,Sep,MW Wind auf See,6.579
+2024,Sep,MW Solar,4.512
+2024,Sep,MW,7.831
+2024,Sep,Negative Preise (6H),
+2024,Sep,Negative Preise (4H),
+2024,Sep,Negative Preise (3H),
+2024,Sep,Negative Preise (1H),
+2024,Okt,Spotmarktpreis,8.61
+2024,Okt,MW Wind an Land,6.822
+2024,Okt,MW Wind auf See,7.386
+2024,Okt,MW Solar,6.752
+2024,Okt,MW,8.61
+2024,Okt,Negative Preise (6H),
+2024,Okt,Negative Preise (4H),
+2024,Okt,Negative Preise (3H),
+2024,Okt,Negative Preise (1H),
+2024,Nov,Spotmarktpreis,11.391
+2024,Nov,MW Wind an Land,8.881
+2024,Nov,MW Wind auf See,9.499
+2024,Nov,MW Solar,10.076
+2024,Nov,MW,11.391
+2024,Nov,Negative Preise (6H),
+2024,Nov,Negative Preise (4H),
+2024,Nov,Negative Preise (3H),
+2024,Nov,Negative Preise (1H),
+2024,Dez,Spotmarktpreis,10.832
+2024,Dez,MW Wind an Land,7.237
+2024,Dez,MW Wind auf See,8.077
+2024,Dez,MW Solar,11.171
+2024,Dez,MW,10.832
+2024,Dez,Negative Preise (6H),
+2024,Dez,Negative Preise (4H),
+2024,Dez,Negative Preise (3H),
+2024,Dez,Negative Preise (1H),
+2025,Jan,Spotmarktpreis,11.414
+2025,Jan,MW Wind an Land,8.506
+2025,Jan,MW Wind auf See,9.702
+2025,Jan,MW Solar,11.511
+2025,Jan,MW,11.414
+2025,Jan,Negative Preise (6H),
+2025,Jan,Negative Preise (4H),
+2025,Jan,Negative Preise (3H),
+2025,Jan,Negative Preise (1H),
+2025,Jan,Negative Preise (15MIN),
+2025,Jan,Negative Preise (2CT),
+2025,Feb,Spotmarktpreis,12.852
+2025,Feb,MW Wind an Land,11.591
+2025,Feb,MW Wind auf See,11.741
+2025,Feb,MW Solar,11.099
+2025,Feb,MW,12.852
+2025,Feb,Negative Preise (6H),
+2025,Feb,Negative Preise (4H),
+2025,Feb,Negative Preise (3H),
+2025,Feb,Negative Preise (1H),
+2025,Feb,Negative Preise (15MIN),
+2025,Feb,Negative Preise (2CT),
+2025,Mär,Spotmarktpreis,9.473
+2025,Mär,MW Wind an Land,7.513
+2025,Mär,MW Wind auf See,8.136
+2025,Mär,MW Solar,5.027
+2025,Mär,MW,9.473
+2025,Mär,Negative Preise (6H),
+2025,Mär,Negative Preise (4H),
+2025,Mär,Negative Preise (3H),
+2025,Mär,Negative Preise (1H),
+2025,Mär,Negative Preise (15MIN),
+2025,Mär,Negative Preise (2CT),
+2025,Apr,Spotmarktpreis,7.794
+2025,Apr,MW Wind an Land,7.314
+2025,Apr,MW Wind auf See,7.318
+2025,Apr,MW Solar,3.041
+2025,Apr,MW,7.794
+2025,Apr,Negative Preise (6H),
+2025,Apr,Negative Preise (4H),
+2025,Apr,Negative Preise (3H),
+2025,Apr,Negative Preise (1H),
+2025,Apr,Negative Preise (15MIN),
+2025,Apr,Negative Preise (2CT),
+2025,Mai,Spotmarktpreis,6.734
+2025,Mai,MW Wind an Land,6.171
+2025,Mai,MW Wind auf See,6.338
+2025,Mai,MW Solar,1.997
+2025,Mai,MW,6.734
+2025,Mai,Negative Preise (6H),
+2025,Mai,Negative Preise (4H),
+2025,Mai,Negative Preise (3H),
+2025,Mai,Negative Preise (1H),
+2025,Mai,Negative Preise (15MIN),
+2025,Mai,Negative Preise (2CT),
+2025,Jun,Spotmarktpreis,6.399
+2025,Jun,MW Wind an Land,5.141
+2025,Jun,MW Wind auf See,5.823
+2025,Jun,MW Solar,1.843
+2025,Jun,MW,6.399
+2025,Jun,Negative Preise (6H),
+2025,Jun,Negative Preise (4H),
+2025,Jun,Negative Preise (3H),
+2025,Jun,Negative Preise (1H),
+2025,Jun,Negative Preise (15MIN),
+2025,Jun,Negative Preise (2CT),
+2025,Jul,Spotmarktpreis,8.78
+2025,Jul,MW Wind an Land,8.171
+2025,Jul,MW Wind auf See,8.294
+2025,Jul,MW Solar,5.923
+2025,Jul,MW,8.78
+2025,Jul,Negative Preise (6H),
+2025,Jul,Negative Preise (4H),
+2025,Jul,Negative Preise (3H),
+2025,Jul,Negative Preise (1H),
+2025,Jul,Negative Preise (15MIN),
+2025,Jul,Negative Preise (2CT),
+2025,Aug,Spotmarktpreis,7.699
+2025,Aug,MW Wind an Land,6.824
+2025,Aug,MW Wind auf See,6.689
+2025,Aug,MW Solar,3.832
+2025,Aug,MW,7.699
+2025,Aug,Negative Preise (6H),
+2025,Aug,Negative Preise (4H),
+2025,Aug,Negative Preise (3H),
+2025,Aug,Negative Preise (1H),
+2025,Aug,Negative Preise (15MIN),
+2025,Aug,Negative Preise (2CT),
+2025,Sep,Spotmarktpreis,8.351
+2025,Sep,MW Wind an Land,6.267
+2025,Sep,MW Wind auf See,6.748
+2025,Sep,MW Solar,4.307
+2025,Sep,MW,8.351
+2025,Sep,Negative Preise (6H),
+2025,Sep,Negative Preise (4H),
+2025,Sep,Negative Preise (3H),
+2025,Sep,Negative Preise (1H),
+2025,Sep,Negative Preise (15MIN),
+2025,Sep,Negative Preise (2CT),
+2025,Okt,Spotmarktpreis,8.44
+2025,Okt,MW Wind an Land,5.579
+2025,Okt,MW Wind auf See,6.867
+2025,Okt,MW Solar,6.98
+2025,Okt,MW,8.44
+2025,Okt,Negative Preise (6H),
+2025,Okt,Negative Preise (4H),
+2025,Okt,Negative Preise (3H),
+2025,Okt,Negative Preise (1H),
+2025,Okt,Negative Preise (15MIN),
+2025,Okt,Negative Preise (2CT),
+2025,Nov,Spotmarktpreis,10.188
+2025,Nov,MW Wind an Land,8.93
+2025,Nov,MW Wind auf See,9.091
+2025,Nov,MW Solar,9.102
+2025,Nov,MW,10.188
+2025,Nov,Negative Preise (6H),
+2025,Nov,Negative Preise (4H),
+2025,Nov,Negative Preise (3H),
+2025,Nov,Negative Preise (1H),
+2025,Nov,Negative Preise (15MIN),
+2025,Nov,Negative Preise (2CT),
+2025,Dez,Spotmarktpreis,9.347
+2025,Dez,MW Wind an Land,8.349
+2025,Dez,MW Wind auf See,8.608
+2025,Dez,MW Solar,9.373
+2025,Dez,MW,9.347
+2025,Dez,Negative Preise (6H),
+2025,Dez,Negative Preise (4H),
+2025,Dez,Negative Preise (3H),
+2025,Dez,Negative Preise (1H),
+2025,Dez,Negative Preise (15MIN),
+2025,Dez,Negative Preise (2CT),
+2019,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.939
+2019,Jan,MW Wind Onshore,3.833
+2019,Jan,PM Wind Onshore fernsteuerbar,0.4
+2019,Jan,MW Wind Offshore,4.298
+2019,Jan,PM Wind Offshore fernsteuerbar,0.4
+2019,Jan,MW Solar,5.906
+2019,Jan,PM Solar fernsteuerbar,0.4
+2019,Jan,MW steuerbar,4.939
+2019,Jan,PM steuerbar,0.2
+2019,Jan,Negative Preise (6H),
+2019,Jan,Negative Preise (4H),
+2019,Jan,Negative Preise (1H),
+2019,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.282
+2019,Feb,MW Wind Onshore,3.811
+2019,Feb,PM Wind Onshore fernsteuerbar,0.4
+2019,Feb,MW Wind Offshore,4.088
+2019,Feb,PM Wind Offshore fernsteuerbar,0.4
+2019,Feb,MW Solar,4.213
+2019,Feb,PM Solar fernsteuerbar,0.4
+2019,Feb,MW steuerbar,4.282
+2019,Feb,PM steuerbar,0.2
+2019,Feb,Negative Preise (6H),
+2019,Feb,Negative Preise (4H),
+2019,Feb,Negative Preise (1H),
+2019,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.063
+2019,Mär,MW Wind Onshore,2.423
+2019,Mär,PM Wind Onshore fernsteuerbar,0.4
+2019,Mär,MW Wind Offshore,2.672
+2019,Mär,PM Wind Offshore fernsteuerbar,0.4
+2019,Mär,MW Solar,3.075
+2019,Mär,PM Solar fernsteuerbar,0.4
+2019,Mär,MW steuerbar,3.063
+2019,Mär,PM steuerbar,0.2
+2019,Mär,Negative Preise (6H),
+2019,Mär,Negative Preise (4H),
+2019,Mär,Negative Preise (1H),
+2019,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.696
+2019,Apr,MW Wind Onshore,3.262
+2019,Apr,PM Wind Onshore fernsteuerbar,0.4
+2019,Apr,MW Wind Offshore,3.416
+2019,Apr,PM Wind Offshore fernsteuerbar,0.4
+2019,Apr,MW Solar,3.172
+2019,Apr,PM Solar fernsteuerbar,0.4
+2019,Apr,MW steuerbar,3.696
+2019,Apr,PM steuerbar,0.2
+2019,Apr,Negative Preise (6H),
+2019,Apr,Negative Preise (4H),
+2019,Apr,Negative Preise (1H),
+2019,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.784
+2019,Mai,MW Wind Onshore,3.564
+2019,Mai,PM Wind Onshore fernsteuerbar,0.4
+2019,Mai,MW Wind Offshore,3.559
+2019,Mai,PM Wind Offshore fernsteuerbar,0.4
+2019,Mai,MW Solar,3.53
+2019,Mai,PM Solar fernsteuerbar,0.4
+2019,Mai,MW steuerbar,3.784
+2019,Mai,PM steuerbar,0.2
+2019,Mai,Negative Preise (6H),
+2019,Mai,Negative Preise (4H),
+2019,Mai,Negative Preise (1H),
+2019,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.252
+2019,Jun,MW Wind Onshore,2.231
+2019,Jun,PM Wind Onshore fernsteuerbar,0.4
+2019,Jun,MW Wind Offshore,2.662
+2019,Jun,PM Wind Offshore fernsteuerbar,0.4
+2019,Jun,MW Solar,2.91
+2019,Jun,PM Solar fernsteuerbar,0.4
+2019,Jun,MW steuerbar,3.252
+2019,Jun,PM steuerbar,0.2
+2019,Jun,Negative Preise (6H),
+2019,Jun,Negative Preise (4H),
+2019,Jun,Negative Preise (1H),
+2019,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.969
+2019,Jul,MW Wind Onshore,3.641
+2019,Jul,PM Wind Onshore fernsteuerbar,0.4
+2019,Jul,MW Wind Offshore,3.644
+2019,Jul,PM Wind Offshore fernsteuerbar,0.4
+2019,Jul,MW Solar,3.917
+2019,Jul,PM Solar fernsteuerbar,0.4
+2019,Jul,MW steuerbar,3.969
+2019,Jul,PM steuerbar,0.2
+2019,Jul,Negative Preise (6H),
+2019,Jul,Negative Preise (4H),
+2019,Jul,Negative Preise (1H),
+2019,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.685
+2019,Aug,MW Wind Onshore,3.029
+2019,Aug,PM Wind Onshore fernsteuerbar,0.4
+2019,Aug,MW Wind Offshore,3.2
+2019,Aug,PM Wind Offshore fernsteuerbar,0.4
+2019,Aug,MW Solar,3.376
+2019,Aug,PM Solar fernsteuerbar,0.4
+2019,Aug,MW steuerbar,3.685
+2019,Aug,PM steuerbar,0.2
+2019,Aug,Negative Preise (6H),
+2019,Aug,Negative Preise (4H),
+2019,Aug,Negative Preise (1H),
+2019,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.575
+2019,Sep,MW Wind Onshore,3.064
+2019,Sep,PM Wind Onshore fernsteuerbar,0.4
+2019,Sep,MW Wind Offshore,3.317
+2019,Sep,PM Wind Offshore fernsteuerbar,0.4
+2019,Sep,MW Solar,3.345
+2019,Sep,PM Solar fernsteuerbar,0.4
+2019,Sep,MW steuerbar,3.575
+2019,Sep,PM steuerbar,0.2
+2019,Sep,Negative Preise (6H),
+2019,Sep,Negative Preise (4H),
+2019,Sep,Negative Preise (1H),
+2019,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.694
+2019,Okt,MW Wind Onshore,3.194
+2019,Okt,PM Wind Onshore fernsteuerbar,0.4
+2019,Okt,MW Wind Offshore,3.323
+2019,Okt,PM Wind Offshore fernsteuerbar,0.4
+2019,Okt,MW Solar,3.788
+2019,Okt,PM Solar fernsteuerbar,0.4
+2019,Okt,MW steuerbar,3.694
+2019,Okt,PM steuerbar,0.2
+2019,Okt,Negative Preise (6H),
+2019,Okt,Negative Preise (4H),
+2019,Okt,Negative Preise (1H),
+2019,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.1
+2019,Nov,MW Wind Onshore,3.709
+2019,Nov,PM Wind Onshore fernsteuerbar,0.4
+2019,Nov,MW Wind Offshore,3.835
+2019,Nov,PM Wind Offshore fernsteuerbar,0.4
+2019,Nov,MW Solar,4.383
+2019,Nov,PM Solar fernsteuerbar,0.4
+2019,Nov,MW steuerbar,4.1
+2019,Nov,PM steuerbar,0.2
+2019,Nov,Negative Preise (6H),
+2019,Nov,Negative Preise (4H),
+2019,Nov,Negative Preise (1H),
+2019,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.197
+2019,Dez,MW Wind Onshore,2.599
+2019,Dez,PM Wind Onshore fernsteuerbar,0.4
+2019,Dez,MW Wind Offshore,2.936
+2019,Dez,PM Wind Offshore fernsteuerbar,0.4
+2019,Dez,MW Solar,3.696
+2019,Dez,PM Solar fernsteuerbar,0.4
+2019,Dez,MW steuerbar,3.197
+2019,Dez,PM steuerbar,0.2
+2019,Dez,Negative Preise (6H),
+2019,Dez,Negative Preise (4H),
+2019,Dez,Negative Preise (1H),
+2014,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.587
+2014,Jan,MW Wind Onshore,3.066
+2014,Jan,PM Wind Onshore fernsteuerbar,0.6
+2014,Jan,MW Wind Offshore,3.606
+2014,Jan,PM Wind Offshore fernsteuerbar,0.6
+2014,Jan,MW Solar,3.872
+2014,Jan,PM Solar fernsteuerbar,0.6
+2014,Jan,MW steuerbar,3.587
+2014,Jan,PM steuerbar,0.25
+2014,Jan,Negative Preise (6H),
+2014,Jan,Negative Preise (4H),
+2014,Jan,Negative Preise (1H),
+2014,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.359
+2014,Feb,MW Wind Onshore,2.925
+2014,Feb,PM Wind Onshore fernsteuerbar,0.6
+2014,Feb,MW Wind Offshore,3.2
+2014,Feb,PM Wind Offshore fernsteuerbar,0.6
+2014,Feb,MW Solar,3.311
+2014,Feb,PM Solar fernsteuerbar,0.6
+2014,Feb,MW steuerbar,3.359
+2014,Feb,PM steuerbar,0.25
+2014,Feb,Negative Preise (6H),
+2014,Feb,Negative Preise (4H),
+2014,Feb,Negative Preise (1H),
+2014,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.105
+2014,Mär,MW Wind Onshore,2.324
+2014,Mär,PM Wind Onshore fernsteuerbar,0.6
+2014,Mär,MW Wind Offshore,2.638
+2014,Mär,PM Wind Offshore fernsteuerbar,0.6
+2014,Mär,MW Solar,2.902
+2014,Mär,PM Solar fernsteuerbar,0.6
+2014,Mär,MW steuerbar,3.105
+2014,Mär,PM steuerbar,0.25
+2014,Mär,Negative Preise (6H),
+2014,Mär,Negative Preise (4H),
+2014,Mär,Negative Preise (1H),
+2014,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.158
+2014,Apr,MW Wind Onshore,2.703
+2014,Apr,PM Wind Onshore fernsteuerbar,0.6
+2014,Apr,MW Wind Offshore,2.819
+2014,Apr,PM Wind Offshore fernsteuerbar,0.6
+2014,Apr,MW Solar,3.096
+2014,Apr,PM Solar fernsteuerbar,0.6
+2014,Apr,MW steuerbar,3.158
+2014,Apr,PM steuerbar,0.25
+2014,Apr,Negative Preise (6H),
+2014,Apr,Negative Preise (4H),
+2014,Apr,Negative Preise (1H),
+2014,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.063
+2014,Mai,MW Wind Onshore,2.713
+2014,Mai,PM Wind Onshore fernsteuerbar,0.6
+2014,Mai,MW Wind Offshore,2.912
+2014,Mai,PM Wind Offshore fernsteuerbar,0.6
+2014,Mai,MW Solar,3.039
+2014,Mai,PM Solar fernsteuerbar,0.6
+2014,Mai,MW steuerbar,3.063
+2014,Mai,PM steuerbar,0.25
+2014,Mai,Negative Preise (6H),
+2014,Mai,Negative Preise (4H),
+2014,Mai,Negative Preise (1H),
+2014,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.152
+2014,Jun,MW Wind Onshore,2.907
+2014,Jun,PM Wind Onshore fernsteuerbar,0.6
+2014,Jun,MW Wind Offshore,2.914
+2014,Jun,PM Wind Offshore fernsteuerbar,0.6
+2014,Jun,MW Solar,3.258
+2014,Jun,PM Solar fernsteuerbar,0.6
+2014,Jun,MW steuerbar,3.152
+2014,Jun,PM steuerbar,0.25
+2014,Jun,Negative Preise (6H),
+2014,Jun,Negative Preise (4H),
+2014,Jun,Negative Preise (1H),
+2014,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.188
+2014,Jul,MW Wind Onshore,3.115
+2014,Jul,PM Wind Onshore fernsteuerbar,0.6
+2014,Jul,MW Wind Offshore,3.132
+2014,Jul,PM Wind Offshore fernsteuerbar,0.6
+2014,Jul,MW Solar,3.311
+2014,Jul,PM Solar fernsteuerbar,0.6
+2014,Jul,MW steuerbar,3.188
+2014,Jul,PM steuerbar,0.25
+2014,Jul,Negative Preise (6H),
+2014,Jul,Negative Preise (4H),
+2014,Jul,Negative Preise (1H),
+2014,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.793
+2014,Aug,MW Wind Onshore,2.264
+2014,Aug,PM Wind Onshore fernsteuerbar,0.6
+2014,Aug,MW Wind Offshore,2.52
+2014,Aug,PM Wind Offshore fernsteuerbar,0.6
+2014,Aug,MW Solar,2.749
+2014,Aug,PM Solar fernsteuerbar,0.6
+2014,Aug,MW steuerbar,2.793
+2014,Aug,PM steuerbar,0.25
+2014,Aug,Negative Preise (6H),
+2014,Aug,Negative Preise (4H),
+2014,Aug,Negative Preise (1H),
+2014,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.479
+2014,Sep,MW Wind Onshore,3.379
+2014,Sep,PM Wind Onshore fernsteuerbar,0.6
+2014,Sep,MW Wind Offshore,3.41
+2014,Sep,PM Wind Offshore fernsteuerbar,0.6
+2014,Sep,MW Solar,3.618
+2014,Sep,PM Solar fernsteuerbar,0.6
+2014,Sep,MW steuerbar,3.479
+2014,Sep,PM steuerbar,0.25
+2014,Sep,Negative Preise (6H),
+2014,Sep,Negative Preise (4H),
+2014,Sep,Negative Preise (1H),
+2014,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.523
+2014,Okt,MW Wind Onshore,3.066
+2014,Okt,PM Wind Onshore fernsteuerbar,0.6
+2014,Okt,MW Wind Offshore,3.275
+2014,Okt,PM Wind Offshore fernsteuerbar,0.6
+2014,Okt,MW Solar,3.572
+2014,Okt,PM Solar fernsteuerbar,0.6
+2014,Okt,MW steuerbar,3.523
+2014,Okt,PM steuerbar,0.25
+2014,Okt,Negative Preise (6H),
+2014,Okt,Negative Preise (4H),
+2014,Okt,Negative Preise (1H),
+2014,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.637
+2014,Nov,MW Wind Onshore,3.273
+2014,Nov,PM Wind Onshore fernsteuerbar,0.6
+2014,Nov,MW Wind Offshore,3.397
+2014,Nov,PM Wind Offshore fernsteuerbar,0.6
+2014,Nov,MW Solar,3.72
+2014,Nov,PM Solar fernsteuerbar,0.6
+2014,Nov,MW steuerbar,3.637
+2014,Nov,PM steuerbar,0.25
+2014,Nov,Negative Preise (6H),
+2014,Nov,Negative Preise (4H),
+2014,Nov,Negative Preise (1H),
+2014,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.289
+2014,Dez,MW Wind Onshore,2.433
+2014,Dez,PM Wind Onshore fernsteuerbar,0.6
+2014,Dez,MW Wind Offshore,2.95
+2014,Dez,PM Wind Offshore fernsteuerbar,0.6
+2014,Dez,MW Solar,3.553
+2014,Dez,PM Solar fernsteuerbar,0.6
+2014,Dez,MW steuerbar,3.289
+2014,Dez,PM steuerbar,0.25
+2014,Dez,Negative Preise (6H),
+2014,Dez,Negative Preise (4H),
+2014,Dez,Negative Preise (1H),
+2015,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.872
+2015,Jan,MW Wind Onshore,2.2
+2015,Jan,PM Wind Onshore fernsteuerbar,0.4
+2015,Jan,MW Wind Offshore,2.525
+2015,Jan,PM Wind Offshore fernsteuerbar,0.4
+2015,Jan,MW Solar,3.218
+2015,Jan,PM Solar fernsteuerbar,0.4
+2015,Jan,MW steuerbar,2.872
+2015,Jan,PM steuerbar,0.2
+2015,Jan,Negative Preise (6H),
+2015,Jan,Negative Preise (4H),
+2015,Jan,Negative Preise (1H),
+2015,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.672
+2015,Feb,MW Wind Onshore,3.163
+2015,Feb,PM Wind Onshore fernsteuerbar,0.4
+2015,Feb,MW Wind Offshore,3.351
+2015,Feb,PM Wind Offshore fernsteuerbar,0.4
+2015,Feb,MW Solar,3.678
+2015,Feb,PM Solar fernsteuerbar,0.4
+2015,Feb,MW steuerbar,3.672
+2015,Feb,PM steuerbar,0.2
+2015,Feb,Negative Preise (6H),
+2015,Feb,Negative Preise (4H),
+2015,Feb,Negative Preise (1H),
+2015,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.134
+2015,Mär,MW Wind Onshore,2.527
+2015,Mär,PM Wind Onshore fernsteuerbar,0.4
+2015,Mär,MW Wind Offshore,2.802
+2015,Mär,PM Wind Offshore fernsteuerbar,0.4
+2015,Mär,MW Solar,3.059
+2015,Mär,PM Solar fernsteuerbar,0.4
+2015,Mär,MW steuerbar,3.134
+2015,Mär,PM steuerbar,0.2
+2015,Mär,Negative Preise (6H),
+2015,Mär,Negative Preise (4H),
+2015,Mär,Negative Preise (1H),
+2015,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.972
+2015,Apr,MW Wind Onshore,2.536
+2015,Apr,PM Wind Onshore fernsteuerbar,0.4
+2015,Apr,MW Wind Offshore,2.817
+2015,Apr,PM Wind Offshore fernsteuerbar,0.4
+2015,Apr,MW Solar,2.64
+2015,Apr,PM Solar fernsteuerbar,0.4
+2015,Apr,MW steuerbar,2.972
+2015,Apr,PM steuerbar,0.2
+2015,Apr,Negative Preise (6H),
+2015,Apr,Negative Preise (4H),
+2015,Apr,Negative Preise (1H),
+2015,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.536
+2015,Mai,MW Wind Onshore,2.268
+2015,Mai,PM Wind Onshore fernsteuerbar,0.4
+2015,Mai,MW Wind Offshore,2.4
+2015,Mai,PM Wind Offshore fernsteuerbar,0.4
+2015,Mai,MW Solar,2.511
+2015,Mai,PM Solar fernsteuerbar,0.4
+2015,Mai,MW steuerbar,2.536
+2015,Mai,PM steuerbar,0.2
+2015,Mai,Negative Preise (6H),
+2015,Mai,Negative Preise (4H),
+2015,Mai,Negative Preise (1H),
+2015,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.006
+2015,Jun,MW Wind Onshore,2.792
+2015,Jun,PM Wind Onshore fernsteuerbar,0.4
+2015,Jun,MW Wind Offshore,2.859
+2015,Jun,PM Wind Offshore fernsteuerbar,0.4
+2015,Jun,MW Solar,3.045
+2015,Jun,PM Solar fernsteuerbar,0.4
+2015,Jun,MW steuerbar,3.006
+2015,Jun,PM steuerbar,0.2
+2015,Jun,Negative Preise (6H),
+2015,Jun,Negative Preise (4H),
+2015,Jun,Negative Preise (1H),
+2015,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.5
+2015,Jul,MW Wind Onshore,2.926
+2015,Jul,PM Wind Onshore fernsteuerbar,0.4
+2015,Jul,MW Wind Offshore,3.097
+2015,Jul,PM Wind Offshore fernsteuerbar,0.4
+2015,Jul,MW Solar,3.536
+2015,Jul,PM Solar fernsteuerbar,0.4
+2015,Jul,MW steuerbar,3.5
+2015,Jul,PM steuerbar,0.2
+2015,Jul,Negative Preise (6H),
+2015,Jul,Negative Preise (4H),
+2015,Jul,Negative Preise (1H),
+2015,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.161
+2015,Aug,MW Wind Onshore,2.959
+2015,Aug,PM Wind Onshore fernsteuerbar,0.4
+2015,Aug,MW Wind Offshore,3.016
+2015,Aug,PM Wind Offshore fernsteuerbar,0.4
+2015,Aug,MW Solar,3.067
+2015,Aug,PM Solar fernsteuerbar,0.4
+2015,Aug,MW steuerbar,3.161
+2015,Aug,PM steuerbar,0.2
+2015,Aug,Negative Preise (6H),
+2015,Aug,Negative Preise (4H),
+2015,Aug,Negative Preise (1H),
+2015,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.188
+2015,Sep,MW Wind Onshore,2.765
+2015,Sep,PM Wind Onshore fernsteuerbar,0.4
+2015,Sep,MW Wind Offshore,3.012
+2015,Sep,PM Wind Offshore fernsteuerbar,0.4
+2015,Sep,MW Solar,3.147
+2015,Sep,PM Solar fernsteuerbar,0.4
+2015,Sep,MW steuerbar,3.188
+2015,Sep,PM steuerbar,0.2
+2015,Sep,Negative Preise (6H),
+2015,Sep,Negative Preise (4H),
+2015,Sep,Negative Preise (1H),
+2015,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.936
+2015,Okt,MW Wind Onshore,3.656
+2015,Okt,PM Wind Onshore fernsteuerbar,0.4
+2015,Okt,MW Wind Offshore,3.825
+2015,Okt,PM Wind Offshore fernsteuerbar,0.4
+2015,Okt,MW Solar,3.751
+2015,Okt,PM Solar fernsteuerbar,0.4
+2015,Okt,MW steuerbar,3.936
+2015,Okt,PM steuerbar,0.2
+2015,Okt,Negative Preise (6H),
+2015,Okt,Negative Preise (4H),
+2015,Okt,Negative Preise (1H),
+2015,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.239
+2015,Nov,MW Wind Onshore,2.671
+2015,Nov,PM Wind Onshore fernsteuerbar,0.4
+2015,Nov,MW Wind Offshore,3.0
+2015,Nov,PM Wind Offshore fernsteuerbar,0.4
+2015,Nov,MW Solar,3.491
+2015,Nov,PM Solar fernsteuerbar,0.4
+2015,Nov,MW steuerbar,3.239
+2015,Nov,PM steuerbar,0.2
+2015,Nov,Negative Preise (6H),
+2015,Nov,Negative Preise (4H),
+2015,Nov,Negative Preise (1H),
+2015,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.778
+2015,Dez,MW Wind Onshore,2.358
+2015,Dez,PM Wind Onshore fernsteuerbar,0.4
+2015,Dez,MW Wind Offshore,2.585
+2015,Dez,PM Wind Offshore fernsteuerbar,0.4
+2015,Dez,MW Solar,2.91
+2015,Dez,PM Solar fernsteuerbar,0.4
+2015,Dez,MW steuerbar,2.778
+2015,Dez,PM steuerbar,0.2
+2015,Dez,Negative Preise (6H),
+2015,Dez,Negative Preise (4H),
+2015,Dez,Negative Preise (1H),
+2017,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),5.237
+2017,Jan,MW Wind Onshore,4.066
+2017,Jan,PM Wind Onshore fernsteuerbar,0.4
+2017,Jan,MW Wind Offshore,4.484
+2017,Jan,PM Wind Offshore fernsteuerbar,0.4
+2017,Jan,MW Solar,5.697
+2017,Jan,PM Solar fernsteuerbar,0.4
+2017,Jan,MW steuerbar,5.237
+2017,Jan,PM steuerbar,0.2
+2017,Jan,Negative Preise (6H),
+2017,Jan,Negative Preise (4H),
+2017,Jan,Negative Preise (1H),
+2017,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.97
+2017,Feb,MW Wind Onshore,3.293
+2017,Feb,PM Wind Onshore fernsteuerbar,0.4
+2017,Feb,MW Wind Offshore,3.769
+2017,Feb,PM Wind Offshore fernsteuerbar,0.4
+2017,Feb,MW Solar,4.156
+2017,Feb,PM Solar fernsteuerbar,0.4
+2017,Feb,MW steuerbar,3.97
+2017,Feb,PM steuerbar,0.2
+2017,Feb,Negative Preise (6H),
+2017,Feb,Negative Preise (4H),
+2017,Feb,Negative Preise (1H),
+2017,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.17
+2017,Mär,MW Wind Onshore,2.872
+2017,Mär,PM Wind Onshore fernsteuerbar,0.4
+2017,Mär,MW Wind Offshore,3.044
+2017,Mär,PM Wind Offshore fernsteuerbar,0.4
+2017,Mär,MW Solar,3.077
+2017,Mär,PM Solar fernsteuerbar,0.4
+2017,Mär,MW steuerbar,3.17
+2017,Mär,PM steuerbar,0.2
+2017,Mär,Negative Preise (6H),
+2017,Mär,Negative Preise (4H),
+2017,Mär,Negative Preise (1H),
+2017,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.887
+2017,Apr,MW Wind Onshore,2.36
+2017,Apr,PM Wind Onshore fernsteuerbar,0.4
+2017,Apr,MW Wind Offshore,2.496
+2017,Apr,PM Wind Offshore fernsteuerbar,0.4
+2017,Apr,MW Solar,2.523
+2017,Apr,PM Solar fernsteuerbar,0.4
+2017,Apr,MW steuerbar,2.887
+2017,Apr,PM steuerbar,0.2
+2017,Apr,Negative Preise (6H),
+2017,Apr,Negative Preise (4H),
+2017,Apr,Negative Preise (1H),
+2017,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.046
+2017,Mai,MW Wind Onshore,2.621
+2017,Mai,PM Wind Onshore fernsteuerbar,0.4
+2017,Mai,MW Wind Offshore,2.792
+2017,Mai,PM Wind Offshore fernsteuerbar,0.4
+2017,Mai,MW Solar,2.984
+2017,Mai,PM Solar fernsteuerbar,0.4
+2017,Mai,MW steuerbar,3.046
+2017,Mai,PM steuerbar,0.2
+2017,Mai,Negative Preise (6H),
+2017,Mai,Negative Preise (4H),
+2017,Mai,Negative Preise (1H),
+2017,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.0
+2017,Jun,MW Wind Onshore,2.549
+2017,Jun,PM Wind Onshore fernsteuerbar,0.4
+2017,Jun,MW Wind Offshore,2.604
+2017,Jun,PM Wind Offshore fernsteuerbar,0.4
+2017,Jun,MW Solar,2.943
+2017,Jun,PM Solar fernsteuerbar,0.4
+2017,Jun,MW steuerbar,3.0
+2017,Jun,PM steuerbar,0.2
+2017,Jun,Negative Preise (6H),
+2017,Jun,Negative Preise (4H),
+2017,Jun,Negative Preise (1H),
+2017,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.301
+2017,Jul,MW Wind Onshore,2.892
+2017,Jul,PM Wind Onshore fernsteuerbar,0.4
+2017,Jul,MW Wind Offshore,2.977
+2017,Jul,PM Wind Offshore fernsteuerbar,0.4
+2017,Jul,MW Solar,3.23
+2017,Jul,PM Solar fernsteuerbar,0.4
+2017,Jul,MW steuerbar,3.301
+2017,Jul,PM steuerbar,0.2
+2017,Jul,Negative Preise (6H),
+2017,Jul,Negative Preise (4H),
+2017,Jul,Negative Preise (1H),
+2017,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.085
+2017,Aug,MW Wind Onshore,2.721
+2017,Aug,PM Wind Onshore fernsteuerbar,0.4
+2017,Aug,MW Wind Offshore,2.708
+2017,Aug,PM Wind Offshore fernsteuerbar,0.4
+2017,Aug,MW Solar,3.021
+2017,Aug,PM Solar fernsteuerbar,0.4
+2017,Aug,MW steuerbar,3.085
+2017,Aug,PM steuerbar,0.2
+2017,Aug,Negative Preise (6H),
+2017,Aug,Negative Preise (4H),
+2017,Aug,Negative Preise (1H),
+2017,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.435
+2017,Sep,MW Wind Onshore,2.765
+2017,Sep,PM Wind Onshore fernsteuerbar,0.4
+2017,Sep,MW Wind Offshore,3.043
+2017,Sep,PM Wind Offshore fernsteuerbar,0.4
+2017,Sep,MW Solar,3.554
+2017,Sep,PM Solar fernsteuerbar,0.4
+2017,Sep,MW steuerbar,3.435
+2017,Sep,PM steuerbar,0.2
+2017,Sep,Negative Preise (6H),
+2017,Sep,Negative Preise (4H),
+2017,Sep,Negative Preise (1H),
+2017,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.825
+2017,Okt,MW Wind Onshore,1.872
+2017,Okt,PM Wind Onshore fernsteuerbar,0.4
+2017,Okt,MW Wind Offshore,2.587
+2017,Okt,PM Wind Offshore fernsteuerbar,0.4
+2017,Okt,MW Solar,2.912
+2017,Okt,PM Solar fernsteuerbar,0.4
+2017,Okt,MW steuerbar,2.825
+2017,Okt,PM steuerbar,0.2
+2017,Okt,Negative Preise (6H),
+2017,Okt,Negative Preise (4H),
+2017,Okt,Negative Preise (1H),
+2017,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.037
+2017,Nov,MW Wind Onshore,3.088
+2017,Nov,PM Wind Onshore fernsteuerbar,0.4
+2017,Nov,MW Wind Offshore,3.254
+2017,Nov,PM Wind Offshore fernsteuerbar,0.4
+2017,Nov,MW Solar,4.297
+2017,Nov,PM Solar fernsteuerbar,0.4
+2017,Nov,MW steuerbar,4.037
+2017,Nov,PM steuerbar,0.2
+2017,Nov,Negative Preise (6H),
+2017,Nov,Negative Preise (4H),
+2017,Nov,Negative Preise (1H),
+2017,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.077
+2017,Dez,MW Wind Onshore,2.192
+2017,Dez,PM Wind Onshore fernsteuerbar,0.4
+2017,Dez,MW Wind Offshore,2.47
+2017,Dez,PM Wind Offshore fernsteuerbar,0.4
+2017,Dez,MW Solar,3.299
+2017,Dez,PM Solar fernsteuerbar,0.4
+2017,Dez,MW steuerbar,3.077
+2017,Dez,PM steuerbar,0.2
+2017,Dez,Negative Preise (6H),
+2017,Dez,Negative Preise (4H),
+2017,Dez,Negative Preise (1H),
+2016,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.904
+2016,Jan,MW Wind Onshore,2.407
+2016,Jan,PM Wind Onshore fernsteuerbar,0.4
+2016,Jan,MW Wind Offshore,2.637
+2016,Jan,PM Wind Offshore fernsteuerbar,0.4
+2016,Jan,MW Solar,3.224
+2016,Jan,PM Solar fernsteuerbar,0.4
+2016,Jan,MW steuerbar,2.904
+2016,Jan,PM steuerbar,0.2
+2016,Jan,Negative Preise (6H),
+2016,Jan,Negative Preise (4H),
+2016,Jan,Negative Preise (1H),
+2016,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.199
+2016,Feb,MW Wind Onshore,1.831
+2016,Feb,PM Wind Onshore fernsteuerbar,0.4
+2016,Feb,MW Wind Offshore,1.961
+2016,Feb,PM Wind Offshore fernsteuerbar,0.4
+2016,Feb,MW Solar,2.405
+2016,Feb,PM Solar fernsteuerbar,0.4
+2016,Feb,MW steuerbar,2.199
+2016,Feb,PM steuerbar,0.2
+2016,Feb,Negative Preise (6H),
+2016,Feb,Negative Preise (4H),
+2016,Feb,Negative Preise (1H),
+2016,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.431
+2016,Mär,MW Wind Onshore,2.106
+2016,Mär,PM Wind Onshore fernsteuerbar,0.4
+2016,Mär,MW Wind Offshore,2.138
+2016,Mär,PM Wind Offshore fernsteuerbar,0.4
+2016,Mär,MW Solar,2.314
+2016,Mär,PM Solar fernsteuerbar,0.4
+2016,Mär,MW steuerbar,2.431
+2016,Mär,PM steuerbar,0.2
+2016,Mär,Negative Preise (6H),
+2016,Mär,Negative Preise (4H),
+2016,Mär,Negative Preise (1H),
+2016,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.421
+2016,Apr,MW Wind Onshore,2.325
+2016,Apr,PM Wind Onshore fernsteuerbar,0.4
+2016,Apr,MW Wind Offshore,2.34
+2016,Apr,PM Wind Offshore fernsteuerbar,0.4
+2016,Apr,MW Solar,2.344
+2016,Apr,PM Solar fernsteuerbar,0.4
+2016,Apr,MW steuerbar,2.421
+2016,Apr,PM steuerbar,0.2
+2016,Apr,Negative Preise (6H),
+2016,Apr,Negative Preise (4H),
+2016,Apr,Negative Preise (1H),
+2016,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.254
+2016,Mai,MW Wind Onshore,1.8
+2016,Mai,PM Wind Onshore fernsteuerbar,0.4
+2016,Mai,MW Wind Offshore,2.009
+2016,Mai,PM Wind Offshore fernsteuerbar,0.4
+2016,Mai,MW Solar,1.887
+2016,Mai,PM Solar fernsteuerbar,0.4
+2016,Mai,MW steuerbar,2.254
+2016,Mai,PM steuerbar,0.2
+2016,Mai,Negative Preise (6H),
+2016,Mai,Negative Preise (4H),
+2016,Mai,Negative Preise (1H),
+2016,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.769
+2016,Jun,MW Wind Onshore,2.672
+2016,Jun,PM Wind Onshore fernsteuerbar,0.4
+2016,Jun,MW Wind Offshore,2.687
+2016,Jun,PM Wind Offshore fernsteuerbar,0.4
+2016,Jun,MW Solar,2.821
+2016,Jun,PM Solar fernsteuerbar,0.4
+2016,Jun,MW steuerbar,2.769
+2016,Jun,PM steuerbar,0.2
+2016,Jun,Negative Preise (6H),
+2016,Jun,Negative Preise (4H),
+2016,Jun,Negative Preise (1H),
+2016,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.719
+2016,Jul,MW Wind Onshore,2.391
+2016,Jul,PM Wind Onshore fernsteuerbar,0.4
+2016,Jul,MW Wind Offshore,2.408
+2016,Jul,PM Wind Offshore fernsteuerbar,0.4
+2016,Jul,MW Solar,2.67
+2016,Jul,PM Solar fernsteuerbar,0.4
+2016,Jul,MW steuerbar,2.719
+2016,Jul,PM steuerbar,0.2
+2016,Jul,Negative Preise (6H),
+2016,Jul,Negative Preise (4H),
+2016,Jul,Negative Preise (1H),
+2016,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.718
+2016,Aug,MW Wind Onshore,2.533
+2016,Aug,PM Wind Onshore fernsteuerbar,0.4
+2016,Aug,MW Wind Offshore,2.537
+2016,Aug,PM Wind Offshore fernsteuerbar,0.4
+2016,Aug,MW Solar,2.616
+2016,Aug,PM Solar fernsteuerbar,0.4
+2016,Aug,MW steuerbar,2.718
+2016,Aug,PM steuerbar,0.2
+2016,Aug,Negative Preise (6H),
+2016,Aug,Negative Preise (4H),
+2016,Aug,Negative Preise (1H),
+2016,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.049
+2016,Sep,MW Wind Onshore,2.748
+2016,Sep,PM Wind Onshore fernsteuerbar,0.4
+2016,Sep,MW Wind Offshore,2.806
+2016,Sep,PM Wind Offshore fernsteuerbar,0.4
+2016,Sep,MW Solar,2.978
+2016,Sep,PM Solar fernsteuerbar,0.4
+2016,Sep,MW steuerbar,3.049
+2016,Sep,PM steuerbar,0.2
+2016,Sep,Negative Preise (6H),
+2016,Sep,Negative Preise (4H),
+2016,Sep,Negative Preise (1H),
+2016,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.713
+2016,Okt,MW Wind Onshore,3.403
+2016,Okt,PM Wind Onshore fernsteuerbar,0.4
+2016,Okt,MW Wind Offshore,3.57
+2016,Okt,PM Wind Offshore fernsteuerbar,0.4
+2016,Okt,MW Solar,3.763
+2016,Okt,PM Solar fernsteuerbar,0.4
+2016,Okt,MW steuerbar,3.713
+2016,Okt,PM steuerbar,0.2
+2016,Okt,Negative Preise (6H),
+2016,Okt,Negative Preise (4H),
+2016,Okt,Negative Preise (1H),
+2016,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.822
+2016,Nov,MW Wind Onshore,3.266
+2016,Nov,PM Wind Onshore fernsteuerbar,0.4
+2016,Nov,MW Wind Offshore,3.455
+2016,Nov,PM Wind Offshore fernsteuerbar,0.4
+2016,Nov,MW Solar,4.046
+2016,Nov,PM Solar fernsteuerbar,0.4
+2016,Nov,MW steuerbar,3.822
+2016,Nov,PM steuerbar,0.2
+2016,Nov,Negative Preise (6H),
+2016,Nov,Negative Preise (4H),
+2016,Nov,Negative Preise (1H),
+2016,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.748
+2016,Dez,MW Wind Onshore,2.403
+2016,Dez,PM Wind Onshore fernsteuerbar,0.4
+2016,Dez,MW Wind Offshore,3.111
+2016,Dez,PM Wind Offshore fernsteuerbar,0.4
+2016,Dez,MW Solar,4.352
+2016,Dez,PM Solar fernsteuerbar,0.4
+2016,Dez,MW steuerbar,3.748
+2016,Dez,PM steuerbar,0.2
+2016,Dez,Negative Preise (6H),
+2016,Dez,Negative Preise (4H),
+2016,Dez,Negative Preise (1H),
+2012,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.989
+2012,Jan,MW Wind Onshore,3.519
+2012,Jan,PM Wind Onshore fernsteuerbar,
+2012,Jan,MW Wind Offshore,
+2012,Jan,PM Wind Offshore fernsteuerbar,
+2012,Jan,MW Solar,4.611
+2012,Jan,PM Solar fernsteuerbar,
+2012,Jan,MW steuerbar,3.989
+2012,Jan,PM steuerbar,0.3
+2012,Jan,Negative Preise (6H),
+2012,Jan,Negative Preise (4H),
+2012,Jan,Negative Preise (1H),
+2012,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),5.492
+2012,Feb,MW Wind Onshore,4.665
+2012,Feb,PM Wind Onshore fernsteuerbar,
+2012,Feb,MW Wind Offshore,
+2012,Feb,PM Wind Offshore fernsteuerbar,
+2012,Feb,MW Solar,5.572
+2012,Feb,PM Solar fernsteuerbar,
+2012,Feb,MW steuerbar,5.492
+2012,Feb,PM steuerbar,0.3
+2012,Feb,Negative Preise (6H),
+2012,Feb,Negative Preise (4H),
+2012,Feb,Negative Preise (1H),
+2012,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.115
+2012,Mär,MW Wind Onshore,3.777
+2012,Mär,PM Wind Onshore fernsteuerbar,
+2012,Mär,MW Wind Offshore,
+2012,Mär,PM Wind Offshore fernsteuerbar,
+2012,Mär,MW Solar,4.036
+2012,Mär,PM Solar fernsteuerbar,
+2012,Mär,MW steuerbar,4.115
+2012,Mär,PM steuerbar,0.3
+2012,Mär,Negative Preise (6H),
+2012,Mär,Negative Preise (4H),
+2012,Mär,Negative Preise (1H),
+2012,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.357
+2012,Apr,MW Wind Onshore,3.915
+2012,Apr,PM Wind Onshore fernsteuerbar,
+2012,Apr,MW Wind Offshore,
+2012,Apr,PM Wind Offshore fernsteuerbar,
+2012,Apr,MW Solar,4.468
+2012,Apr,PM Solar fernsteuerbar,
+2012,Apr,MW steuerbar,4.357
+2012,Apr,PM steuerbar,0.3
+2012,Apr,Negative Preise (6H),
+2012,Apr,Negative Preise (4H),
+2012,Apr,Negative Preise (1H),
+2012,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.885
+2012,Mai,MW Wind Onshore,3.886
+2012,Mai,PM Wind Onshore fernsteuerbar,
+2012,Mai,MW Wind Offshore,
+2012,Mai,PM Wind Offshore fernsteuerbar,
+2012,Mai,MW Solar,4.01
+2012,Mai,PM Solar fernsteuerbar,
+2012,Mai,MW steuerbar,3.885
+2012,Mai,PM steuerbar,0.3
+2012,Mai,Negative Preise (6H),
+2012,Mai,Negative Preise (4H),
+2012,Mai,Negative Preise (1H),
+2012,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.881
+2012,Jun,MW Wind Onshore,3.443
+2012,Jun,PM Wind Onshore fernsteuerbar,
+2012,Jun,MW Wind Offshore,
+2012,Jun,PM Wind Offshore fernsteuerbar,
+2012,Jun,MW Solar,4.211
+2012,Jun,PM Solar fernsteuerbar,
+2012,Jun,MW steuerbar,3.881
+2012,Jun,PM steuerbar,0.3
+2012,Jun,Negative Preise (6H),
+2012,Jun,Negative Preise (4H),
+2012,Jun,Negative Preise (1H),
+2012,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.102
+2012,Jul,MW Wind Onshore,3.972
+2012,Jul,PM Wind Onshore fernsteuerbar,
+2012,Jul,MW Wind Offshore,
+2012,Jul,PM Wind Offshore fernsteuerbar,
+2012,Jul,MW Solar,4.485
+2012,Jul,PM Solar fernsteuerbar,
+2012,Jul,MW steuerbar,4.102
+2012,Jul,PM steuerbar,0.3
+2012,Jul,Negative Preise (6H),
+2012,Jul,Negative Preise (4H),
+2012,Jul,Negative Preise (1H),
+2012,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.49
+2012,Aug,MW Wind Onshore,4.162
+2012,Aug,PM Wind Onshore fernsteuerbar,
+2012,Aug,MW Wind Offshore,
+2012,Aug,PM Wind Offshore fernsteuerbar,
+2012,Aug,MW Solar,4.678
+2012,Aug,PM Solar fernsteuerbar,
+2012,Aug,MW steuerbar,4.49
+2012,Aug,PM steuerbar,0.3
+2012,Aug,Negative Preise (6H),
+2012,Aug,Negative Preise (4H),
+2012,Aug,Negative Preise (1H),
+2012,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.467
+2012,Sep,MW Wind Onshore,4.233
+2012,Sep,PM Wind Onshore fernsteuerbar,
+2012,Sep,MW Wind Offshore,
+2012,Sep,PM Wind Offshore fernsteuerbar,
+2012,Sep,MW Solar,4.629
+2012,Sep,PM Solar fernsteuerbar,
+2012,Sep,MW steuerbar,4.467
+2012,Sep,PM steuerbar,0.3
+2012,Sep,Negative Preise (6H),
+2012,Sep,Negative Preise (4H),
+2012,Sep,Negative Preise (1H),
+2012,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.392
+2012,Okt,MW Wind Onshore,4.169
+2012,Okt,PM Wind Onshore fernsteuerbar,
+2012,Okt,MW Wind Offshore,
+2012,Okt,PM Wind Offshore fernsteuerbar,
+2012,Okt,MW Solar,4.335
+2012,Okt,PM Solar fernsteuerbar,
+2012,Okt,MW steuerbar,4.392
+2012,Okt,PM steuerbar,0.3
+2012,Okt,Negative Preise (6H),
+2012,Okt,Negative Preise (4H),
+2012,Okt,Negative Preise (1H),
+2012,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.479
+2012,Nov,MW Wind Onshore,3.884
+2012,Nov,PM Wind Onshore fernsteuerbar,
+2012,Nov,MW Wind Offshore,
+2012,Nov,PM Wind Offshore fernsteuerbar,
+2012,Nov,MW Solar,4.904
+2012,Nov,PM Solar fernsteuerbar,
+2012,Nov,MW steuerbar,4.479
+2012,Nov,PM steuerbar,0.3
+2012,Nov,Negative Preise (6H),
+2012,Nov,Negative Preise (4H),
+2012,Nov,Negative Preise (1H),
+2012,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.551
+2012,Dez,MW Wind Onshore,2.198
+2012,Dez,PM Wind Onshore fernsteuerbar,
+2012,Dez,MW Wind Offshore,
+2012,Dez,PM Wind Offshore fernsteuerbar,
+2012,Dez,MW Solar,3.998
+2012,Dez,PM Solar fernsteuerbar,
+2012,Dez,MW steuerbar,3.551
+2012,Dez,PM steuerbar,0.3
+2012,Dez,Negative Preise (6H),
+2012,Dez,Negative Preise (4H),
+2012,Dez,Negative Preise (1H),
+2013,Jan,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.331
+2013,Jan,MW Wind Onshore,3.519
+2013,Jan,PM Wind Onshore fernsteuerbar,0.75
+2013,Jan,MW Wind Offshore,3.974
+2013,Jan,PM Wind Offshore fernsteuerbar,0.75
+2013,Jan,MW Solar,4.775
+2013,Jan,PM Solar fernsteuerbar,0.75
+2013,Jan,MW steuerbar,4.331
+2013,Jan,PM steuerbar,0.275
+2013,Jan,Negative Preise (6H),
+2013,Jan,Negative Preise (4H),
+2013,Jan,Negative Preise (1H),
+2013,Feb,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.462
+2013,Feb,MW Wind Onshore,3.872
+2013,Feb,PM Wind Onshore fernsteuerbar,0.75
+2013,Feb,MW Wind Offshore,4.184
+2013,Feb,PM Wind Offshore fernsteuerbar,0.75
+2013,Feb,MW Solar,4.906
+2013,Feb,PM Solar fernsteuerbar,0.75
+2013,Feb,MW steuerbar,4.462
+2013,Feb,PM steuerbar,0.275
+2013,Feb,Negative Preise (6H),
+2013,Feb,Negative Preise (4H),
+2013,Feb,Negative Preise (1H),
+2013,Mär,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.911
+2013,Mär,MW Wind Onshore,3.208
+2013,Mär,PM Wind Onshore fernsteuerbar,0.75
+2013,Mär,MW Wind Offshore,3.558
+2013,Mär,PM Wind Offshore fernsteuerbar,0.75
+2013,Mär,MW Solar,3.578
+2013,Mär,PM Solar fernsteuerbar,0.75
+2013,Mär,MW steuerbar,3.911
+2013,Mär,PM steuerbar,0.275
+2013,Mär,Negative Preise (6H),
+2013,Mär,Negative Preise (4H),
+2013,Mär,Negative Preise (1H),
+2013,Apr,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.792
+2013,Apr,MW Wind Onshore,3.664
+2013,Apr,PM Wind Onshore fernsteuerbar,0.75
+2013,Apr,MW Wind Offshore,3.83
+2013,Apr,PM Wind Offshore fernsteuerbar,0.75
+2013,Apr,MW Solar,3.66
+2013,Apr,PM Solar fernsteuerbar,0.75
+2013,Apr,MW steuerbar,3.792
+2013,Apr,PM steuerbar,0.275
+2013,Apr,Negative Preise (6H),
+2013,Apr,Negative Preise (4H),
+2013,Apr,Negative Preise (1H),
+2013,Mai,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.206
+2013,Mai,MW Wind Onshore,3.069
+2013,Mai,PM Wind Onshore fernsteuerbar,0.75
+2013,Mai,MW Wind Offshore,3.099
+2013,Mai,PM Wind Offshore fernsteuerbar,0.75
+2013,Mai,MW Solar,3.347
+2013,Mai,PM Solar fernsteuerbar,0.75
+2013,Mai,MW steuerbar,3.206
+2013,Mai,PM steuerbar,0.275
+2013,Mai,Negative Preise (6H),
+2013,Mai,Negative Preise (4H),
+2013,Mai,Negative Preise (1H),
+2013,Jun,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),2.782
+2013,Jun,MW Wind Onshore,2.345
+2013,Jun,PM Wind Onshore fernsteuerbar,0.75
+2013,Jun,MW Wind Offshore,2.502
+2013,Jun,PM Wind Offshore fernsteuerbar,0.75
+2013,Jun,MW Solar,2.842
+2013,Jun,PM Solar fernsteuerbar,0.75
+2013,Jun,MW steuerbar,2.782
+2013,Jun,PM steuerbar,0.275
+2013,Jun,Negative Preise (6H),
+2013,Jun,Negative Preise (4H),
+2013,Jun,Negative Preise (1H),
+2013,Jul,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.642
+2013,Jul,MW Wind Onshore,3.41
+2013,Jul,PM Wind Onshore fernsteuerbar,0.75
+2013,Jul,MW Wind Offshore,3.519
+2013,Jul,PM Wind Offshore fernsteuerbar,0.75
+2013,Jul,MW Solar,3.743
+2013,Jul,PM Solar fernsteuerbar,0.75
+2013,Jul,MW steuerbar,3.642
+2013,Jul,PM steuerbar,0.275
+2013,Jul,Negative Preise (6H),
+2013,Jul,Negative Preise (4H),
+2013,Jul,Negative Preise (1H),
+2013,Aug,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.823
+2013,Aug,MW Wind Onshore,3.455
+2013,Aug,PM Wind Onshore fernsteuerbar,0.75
+2013,Aug,MW Wind Offshore,3.393
+2013,Aug,PM Wind Offshore fernsteuerbar,0.75
+2013,Aug,MW Solar,3.999
+2013,Aug,PM Solar fernsteuerbar,0.75
+2013,Aug,MW steuerbar,3.823
+2013,Aug,PM steuerbar,0.275
+2013,Aug,Negative Preise (6H),
+2013,Aug,Negative Preise (4H),
+2013,Aug,Negative Preise (1H),
+2013,Sep,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),4.171
+2013,Sep,MW Wind Onshore,3.709
+2013,Sep,PM Wind Onshore fernsteuerbar,0.75
+2013,Sep,MW Wind Offshore,3.68
+2013,Sep,PM Wind Offshore fernsteuerbar,0.75
+2013,Sep,MW Solar,4.376
+2013,Sep,PM Solar fernsteuerbar,0.75
+2013,Sep,MW steuerbar,4.171
+2013,Sep,PM steuerbar,0.275
+2013,Sep,Negative Preise (6H),
+2013,Sep,Negative Preise (4H),
+2013,Sep,Negative Preise (1H),
+2013,Okt,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.768
+2013,Okt,MW Wind Onshore,3.191
+2013,Okt,PM Wind Onshore fernsteuerbar,0.75
+2013,Okt,MW Wind Offshore,3.748
+2013,Okt,PM Wind Offshore fernsteuerbar,0.75
+2013,Okt,MW Solar,3.75
+2013,Okt,PM Solar fernsteuerbar,0.75
+2013,Okt,MW steuerbar,3.768
+2013,Okt,PM steuerbar,0.275
+2013,Okt,Negative Preise (6H),
+2013,Okt,Negative Preise (4H),
+2013,Okt,Negative Preise (1H),
+2013,Nov,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.922
+2013,Nov,MW Wind Onshore,3.269
+2013,Nov,PM Wind Onshore fernsteuerbar,0.75
+2013,Nov,MW Wind Offshore,3.701
+2013,Nov,PM Wind Offshore fernsteuerbar,0.75
+2013,Nov,MW Solar,4.203
+2013,Nov,PM Solar fernsteuerbar,0.75
+2013,Nov,MW steuerbar,3.922
+2013,Nov,PM steuerbar,0.275
+2013,Nov,Negative Preise (6H),
+2013,Nov,Negative Preise (4H),
+2013,Nov,Negative Preise (1H),
+2013,Dez,Monatsmittelwert Stundenkontrakte EPEX Spot (MW-EPEX),3.575
+2013,Dez,MW Wind Onshore,2.638
+2013,Dez,PM Wind Onshore fernsteuerbar,0.75
+2013,Dez,MW Wind Offshore,3.144
+2013,Dez,PM Wind Offshore fernsteuerbar,0.75
+2013,Dez,MW Solar,4.05
+2013,Dez,PM Solar fernsteuerbar,0.75
+2013,Dez,MW steuerbar,3.575
+2013,Dez,PM steuerbar,0.275
+2013,Dez,Negative Preise (6H),
+2013,Dez,Negative Preise (4H),
+2013,Dez,Negative Preise (1H),
